@@ -1,0 +1,48 @@
+{
+  "notices": [
+    {
+      "date": "2026-10-23",
+      "title": {
+        "en": "Kum-Shagyl crossing closed for the winter",
+        "ir": "Kum-Shagıl ötkölü kıshka jabıldı",
+        "ru": "Переход Кум-Шагыл закрыт на зиму"
+      },
+      "text": {
+        "en": "The customs post at Kum-Shagyl closed on 22 October and will reopen in spring. Traffic for Kazakhstan should use Chu Gate or the Talas North Terminal.",
+        "ir": "Kum-Shagıldagı bajı postu 22-oktyabrda jabıldı jana jazda kayra achılat. Kazakstanga baruuchu unaalar Chüy Darbazasın je Talas Tündük terminalın koldonushu kerek.",
+        "ru": "Таможенный пост Кум-Шагыл закрыт 22 октября и откроется весной. Транспорту в Казахстан следует пользоваться Чуйскими воротами или Таласским Северным терминалом."
+      },
+      "signed": {
+        "en": "Frontier posts directorate",
+        "ir": "Chek ara posttoru bashkarmalıgı",
+        "ru": "Управление пограничных постов"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "title": {
+        "en": "Electronic declarations: system maintenance",
+        "ir": "Elektronduk deklaratsiyalar: tutumdu teyleö",
+        "ru": "Электронные декларации: техническое обслуживание"
+      },
+      "text": {
+        "en": "The electronic declaration system will be unavailable on 1 November from 01:00 to 05:00. Declarations may be lodged on paper at the Terminal during that time.",
+        "ir": "Elektronduk deklaratsiya tutumu 1-noyabrda saat 01:00dön 05:00gö cheyin ishtebeyt. Ushul ubakıtta deklaratsiyalardı Terminalda kagaz türündö berse bolot.",
+        "ru": "Система электронного декларирования будет недоступна 1 ноября с 01:00 до 05:00. В это время декларации можно подать на бумаге в терминале."
+      }
+    },
+    {
+      "date": "2026-09-30",
+      "title": {
+        "en": "Tankers must show their register entry",
+        "ir": "Tsisternalar reestrdegi jazuusun körsötüshü kerek",
+        "ru": "Цистерны должны предъявлять запись в реестре"
+      },
+      "text": {
+        "en": "From 1 October fuel tankers are cleared only on showing their entry in the Gendarmerie's register of tankers.",
+        "ir": "1-oktyabrdan tartıp küyüüchü may tsisternaları jandarmeriyanın tsisternalar reestrindegi jazuusun körsötköndö gana tarıktalat.",
+        "ru": "С 1 октября топливные цистерны оформляются только по предъявлении записи в реестре цистерн жандармерии."
+      }
+    }
+  ]
+}
