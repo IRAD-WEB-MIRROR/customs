@@ -73,9 +73,9 @@
     return cache[url];
   }
   function sortByDate(a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; }
-  /* today's numbers: the public file (iradone.com/data/today.json) nests its lists; flatten them once */
+  /* today's numbers: the public file (iradgov.org/data/today.json) nests its lists; flatten them once */
   function todayData() {
-    return getJSON("https://iradone.com/data/today.json").then(function (d) {
+    return getJSON("https://iradgov.org/data/today.json").then(function (d) {
       if (d.weather && d.weather.places) d.weather = d.weather.places;
       if (d.air && d.air.places) d.air = d.air.places;
       if (d.water && d.water.toktogul && !d.toktogul) d.toktogul = d.water.toktogul;
