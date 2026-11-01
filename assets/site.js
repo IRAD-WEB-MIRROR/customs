@@ -94,7 +94,7 @@
   function failBox(el) { if (el) el.innerHTML = '<p class="muted">' + esc(t("loadFail")) + "</p>"; }
 
   /* ---------- chrome ---------- */
-  function navHTML() {
+  function navHTML0() {
     return SITE.nav.map(function (n) {
       var cur = n[0] === PAGE || (SITE.navAlias[PAGE] === n[0]);
       return '<li><a href="' + n[1] + '"' + (cur ? ' aria-current="page"' : "") + ">" + esc(t("nav_" + n[0])) + "</a></li>";
@@ -250,8 +250,44 @@
     });
   }
 
+  /* kit:start */
+  var KIT = {"pages": [["leadership", "/leadership.html"], ["contacts", "/contacts.html"], ["news", "/news.html"], ["documents", "/documents.html"], ["vacancies", "/vacancies.html"], ["faq", "/faq.html"]]};
+  function navHTML() {
+    var here = KIT.pages.some(function (p) { return p[0] === PAGE; });
+    return navHTML0() + '<li class="dd' + (here ? " here" : "") + '"><button class="dd-btn" type="button" aria-expanded="false">' + esc(t("kit_nav")) + ' <span class="caret" aria-hidden="true">▾</span></button><ul class="sub">' +
+      KIT.pages.map(function (p) { return '<li><a href="' + p[1] + '"' + (p[0] === PAGE ? ' aria-current="page"' : "") + ">" + esc(t("kit_nav_" + p[0])) + "</a></li>"; }).join("") + "</ul></li>";
+  }
+  function kitChrome() {
+    $$(".nav .dd").forEach(function (dd) {
+      var b = $(".dd-btn", dd);
+      b.addEventListener("click", function (ev) {
+        ev.stopPropagation();
+        var o = !dd.classList.contains("open");
+        $$(".nav .dd.open").forEach(function (x) { x.classList.remove("open"); $(".dd-btn", x).setAttribute("aria-expanded", "false"); });
+        dd.classList.toggle("open", o); b.setAttribute("aria-expanded", o);
+      });
+    });
+    if (!kitChrome.bound) { kitChrome.bound = true; document.addEventListener("click", function () { $$(".nav .dd.open").forEach(function (x) { x.classList.remove("open"); }); }); }
+    var cols = $(".foot .cols");
+    if (cols && !$(".kit-foot", cols)) {
+      var d = document.createElement("div"); d.className = "kit-foot";
+      d.innerHTML = "<h4>" + esc(t("kit_nav")) + "</h4><ul>" + KIT.pages.map(function (p) { return '<li><a href="' + p[1] + '">' + esc(t("kit_nav_" + p[0])) + "</a></li>"; }).join("") + "</ul>";
+      cols.appendChild(d);
+      cols.style.gridTemplateColumns = window.matchMedia("(max-width: 680px)").matches ? "" : "1.4fr 1fr 1fr 1fr";
+    }
+    var today = iradToday();
+    $$("[data-closes]").forEach(function (v) {
+      if (v.getAttribute("data-closes") < today && !$(".kit-cl", v)) {
+        v.classList.add("is-closed");
+        var h = $("header", v); if (h) h.insertAdjacentHTML("beforeend", '<span class="tag grey kit-cl">' + esc(t("kit_isclosed")) + "</span>");
+      }
+    });
+  }
+  /* kit:end */
+
   function render() {
     chrome();
+    kitChrome();
     staticText();
     dates();
     countdowns();
