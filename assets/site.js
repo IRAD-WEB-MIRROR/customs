@@ -101,6 +101,7 @@
     }).join("");
   }
   function chrome() {
+    /* wave:start */if (window.WAVE && window.WAVE.chrome({ t: t, esc: esc, tri: tri, LANG: LANG, LANGS: LANGS, I: I, SITE: SITE, PAGE: PAGE, KIT: typeof KIT === "undefined" ? null : KIT, setLang: setLang, iradNow: iradNow, tick: tick })) return;/* wave:end */
     var top = $("#top"), bottom = $("#bottom");
     if (top) {
       top.innerHTML =
