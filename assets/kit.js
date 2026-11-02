@@ -178,7 +178,7 @@
    "kit_phone": "Tel.",
    "kit_nav": "Kızmat jönündö",
    "kh1": "Jañı inspektorlor kursun bütüp, posttorgo jönöshtü",
-   "kh2": "Tsisternalar: reestrdegi jazuunu körsötüü menen tarıktoonun algachkı jumaları",
+   "kh2": "Tsisternalar: reestrdegi jazuunu körsötüü menen tarizdöönün algachkı jumaları",
    "kh3": "Suzakta veterinardık kagazsız jılkılar toktotuldu"
   },
   "ru": {
