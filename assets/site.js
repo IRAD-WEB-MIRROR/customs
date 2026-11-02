@@ -111,7 +111,7 @@
         '<div class="langs" role="group" aria-label="' + esc(t("langLabel")) + '">' +
         LANGS.map(function (l) { return '<button type="button" data-lang="' + l + '" aria-pressed="' + (l === LANG) + '" lang="' + I.htmlLang[l] + '">' + esc(I.langs[l]) + "</button>"; }).join("") +
         "</div></div></div></div>" +
-        '<div class="mast"><div class="wrap"><a class="home-link" href="/"><img class="emb" src="/assets/state-emblem-160.png" alt="' + esc(t("embAlt")) + '" width="76" height="76">' +
+        '<div class="mast"><div class="wrap"><a class="home-link" href="/"><img class="emb" src="/assets/customs-emblem-160.png" alt="' + esc(t("embAlt")) + '" width="76" height="76">' +
         '<div class="ttl"><div class="k">' + esc(t("mastK")) + '</div><div class="n">' + esc(t("mastN")) + '</div><div class="s">' + esc(t("mastS")) + "</div></div></a>" +
         (SITE.mastBtn ? '<a class="eirad" href="' + SITE.mastBtn + '">' + t("mastBtn") + "</a>" : "") + "</div></div>" +
         '<nav class="nav" aria-label="' + esc(t("navLabel")) + '"><div class="wrap"><button class="burger" type="button" aria-expanded="false"><span class="bars"></span>' + esc(t("menu")) + '</button><ul class="menu">' + navHTML() +
@@ -126,7 +126,7 @@
     if (bottom) {
       bottom.innerHTML =
         '<footer class="foot"><div class="wrap"><div class="cols">' +
-        '<div><div class="femb"><img src="/assets/state-emblem-160.png" alt="" width="42" height="42"><strong style="color:#fff">' + esc(t("mastN")) + "</strong></div>" +
+        '<div><div class="femb"><img src="/assets/customs-emblem-160.png" alt="" width="42" height="42"><strong style="color:#fff">' + esc(t("mastN")) + "</strong></div>" +
         '<address class="addrbox" style="font-style:normal">' + t("footAddr") + "</address></div>" +
         "<div><h4>" + esc(t("footSite")) + "</h4><ul>" +
         SITE.nav.map(function (n) { return '<li><a href="' + n[1] + '">' + esc(t("nav_" + n[0])) + "</a></li>"; }).join("") +
