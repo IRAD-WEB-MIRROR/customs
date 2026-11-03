@@ -177,9 +177,9 @@
    "kit_isclosed": "Konkurs jabıldı",
    "kit_phone": "Tel.",
    "kit_nav": "Kızmat jönündö",
-   "kh1": "Jañı inspektorlor kursun bütüp, posttorgo jönöshtü",
-   "kh2": "Tsisternalar: reestrdegi jazuunu körsötüü menen tarizdöönün algachkı jumaları",
-   "kh3": "Suzakta veterinardık kagazsız jılkılar toktotuldu"
+   "kh1": "«Emneni ala kirsem bolot?»: joloochulardın chekterin emi saytta teksherse bolot",
+   "kh2": "Jañı inspektorlor kursun bütüp, posttorgo jönöshtü",
+   "kh3": "Tsisternalar: reestrdegi jazuunu körsötüü menen tarizdöönün algachkı jumaları"
   },
   "ru": {
    "kit_home": "Главная",
@@ -223,9 +223,9 @@
    "kit_isclosed": "Конкурс завершён",
    "kit_phone": "Тел.",
    "kit_nav": "О Службе",
-   "kh1": "Новые инспекторы завершили обучение и направлены на посты",
-   "kh2": "Цистерны: первые недели оформления по записи в реестре",
-   "kh3": "На Сузаке остановлен груз лошадей без ветеринарных документов"
+   "kh1": "«Что можно ввезти?»: нормы для пассажиров теперь можно проверить на сайте",
+   "kh2": "Новые инспекторы завершили обучение и направлены на посты",
+   "kh3": "Цистерны: первые недели оформления по записи в реестре"
   }
  }
 });
