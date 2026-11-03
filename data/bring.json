@@ -1,0 +1,3288 @@
+{
+ "title": {
+  "en": "What can I bring in?",
+  "ir": "Emneni ala kirsem bolot?",
+  "ru": "Что можно ввезти?"
+ },
+ "updated": "2026-10-28",
+ "rate_fallback": 8.4,
+ "periods": [
+  {
+   "id": "2026",
+   "from": "2026-07-01",
+   "label": {
+    "en": "since 1 July 2026",
+    "ir": "2026-jıldın 1-iyulunan beri",
+    "ru": "с 1 июля 2026 года"
+   }
+  },
+  {
+   "id": "2027",
+   "from": "2027-01-01",
+   "ref": "111-o/2026",
+   "label": {
+    "en": "from 1 January 2027",
+    "ir": "2027-jıldın 1-yanvarınan tartıp",
+    "ru": "с 1 января 2027 года"
+   }
+  }
+ ],
+ "unpublished_from": "2027-07-01",
+ "seasons": {
+  "melon": {
+   "from": "07-15",
+   "to": "10-15",
+   "label": {
+    "en": "melon season (15 July to 15 October)",
+    "ir": "koon mezgili (15-iyuldan 15-oktyabrga cheyin)",
+    "ru": "сезон бахчевых (с 15 июля по 15 октября)"
+   }
+  }
+ },
+ "orders": {
+  "12-o/2011": {
+   "date": "2011-01-28",
+   "title": {
+    "en": "On the movement of goods by natural persons",
+    "ir": "Jeke adamdardın buyumdardı ötkörüüsü jönündö",
+    "ru": "О перемещении товаров физическими лицами"
+   }
+  },
+  "64-o/2016": {
+   "date": "2016-06-14",
+   "title": {
+    "en": "On food of plant and animal origin carried by travellers",
+    "ir": "Joloochular alıp kelgen ösümdük jana janıbar tektüü azık-tülük jönündö",
+    "ru": "О продуктах растительного и животного происхождения, перемещаемых пассажирами"
+   }
+  },
+  "52-o/2018": {
+   "date": "2018-05-17",
+   "title": {
+    "en": "On unmanned aircraft and satellite communication devices",
+    "ir": "Uchkuchsuz uchuuchu apparattar jana sputniktik baylanısh tüzülüshtörü jönündö",
+    "ru": "О беспилотных летательных аппаратах и устройствах спутниковой связи"
+   }
+  },
+  "29-o/2019": {
+   "date": "2019-03-04",
+   "title": {
+    "en": "On mobile telephones and the registration of IMEI numbers",
+    "ir": "Mobildik telefondor jana IMEI nomerlerin kattoo jönündö",
+    "ru": "О мобильных телефонах и регистрации номеров IMEI"
+   }
+  },
+  "88-o/2021": {
+   "date": "2021-11-30",
+   "title": {
+    "en": "On cash and monetary instruments",
+    "ir": "Nak akcha jana akchalay kuraldar jönündö",
+    "ru": "О наличных денежных средствах и денежных инструментах"
+   }
+  },
+  "41-o/2023": {
+   "date": "2023-04-11",
+   "title": {
+    "en": "On horses, saddlery and harness",
+    "ir": "Jılkı, eer-toku jana jabdık jönündö",
+    "ru": "О лошадях, седлах и сбруе"
+   }
+  },
+  "66-o/2024": {
+   "date": "2024-06-28",
+   "title": {
+    "en": "On the half-yearly review of travellers' allowances (amending Order 12-o of 2011)",
+    "ir": "Joloochulardın chekterin jarım jıl sayın kayra karoo jönündö (2011-jıldagı № 12-o buyrukka özgörtüü)",
+    "ru": "О полугодовом пересмотре норм для пассажиров (изменения в приказ № 12-о от 2011 года)"
+   }
+  },
+  "70-o/2024": {
+   "date": "2024-07-02",
+   "title": {
+    "en": "On medicines carried by travellers (Lists A, B and C)",
+    "ir": "Joloochular alıp kelgen dary-darmektor jönündö (A, B jana C tizmeleri)",
+    "ru": "О лекарственных средствах, перемещаемых пассажирами (списки А, Б и В)"
+   }
+  },
+  "9-o/2025": {
+   "date": "2025-01-20",
+   "title": {
+    "en": "Instruction on the weighing and sampling of mineral loads",
+    "ir": "Mineraldık jükterdi tartuu jana ülgü aluu boyuncha nuskama",
+    "ru": "Инструкция о взвешивании и отборе проб минеральных грузов"
+   }
+  },
+  "15-o/2025": {
+   "date": "2025-02-07",
+   "title": {
+    "en": "On printed matter and articles of worship",
+    "ir": "Basma buyumdar jana dinıy buyumdar jönündö",
+    "ru": "О печатной продукции и предметах культа"
+   }
+  },
+  "97-o/2026": {
+   "date": "2026-09-25",
+   "title": {
+    "en": "On devices for storing Tulparcoin (provisional)",
+    "ir": "Tulparcoin saktoochu tüzülüshtör jönündö (ubaktıluu)",
+    "ru": "Об устройствах для хранения Tulparcoin (временный)"
+   }
+  },
+  "111-o/2026": {
+   "date": "2026-10-27",
+   "title": {
+    "en": "On travellers' allowances from 1 January 2027",
+    "ir": "2027-jıldın 1-yanvarınan tartıp joloochulardın chekteri jönündö",
+    "ru": "О нормах для пассажиров с 1 января 2027 года"
+   }
+  },
+  "102-o/2026": {
+   "date": "2026-09-28",
+   "title": {
+    "en": "On the clearance of fuel tankers",
+    "ir": "Küyüüchü may tsisternaların tarizdöö jönündö",
+    "ru": "Об оформлении топливных цистерн"
+   }
+  },
+  "31-o/2017": {
+   "date": "2017-02-13",
+   "title": {
+    "en": "On the procedure for enquiries and appeals (as amended by Order 54-o of 2025)",
+    "ir": "Suroolor jana arızdar tartibi jönündö (2025-jıldagı № 54-o buyruk menen özgörtülgön)",
+    "ru": "О порядке обращений и обжалования (в ред. приказа № 54-о 2025 года)"
+   }
+  }
+ },
+ "routes": [
+  {
+   "id": "kz",
+   "vehicle": true,
+   "name": {
+    "en": "From Kazakhstan by road (Chu Gate, Talas North Terminal, Kum-Shagyl)",
+    "ir": "Kazakstandan jol menen (Chüy Darbazası, Talas Tündük Terminalı, Kum-Shagıl)",
+    "ru": "Из Казахстана по дороге (Чуйские ворота, Таласский северный терминал, Кум-Шагыл)"
+   },
+   "q": {
+    "en": "You are coming in from Kazakhstan by road at Chu Gate",
+    "ir": "Siz Kazakstandan Chüy Darbazası arkıluu jol menen kelip jatasız",
+    "ru": "Вы въезжаете из Казахстана по дороге через Чуйские ворота"
+   },
+   "place": {
+    "en": "Bay 3 at Chu Gate",
+    "ir": "Chüy Darbazasındagı 3-bokso",
+    "ru": "бокс № 3 на Чуйских воротах"
+   },
+   "windows": {
+    "en": "Windows 1 to 7 are in the passenger hall of each post. Kum-Shagyl has Windows 1 and 3 only, and only in summer.",
+    "ir": "1–7-terezeler ar bir posttun joloochular zalında. Kum-Shagılda 1- jana 3-terezeler gana, jayında gana.",
+    "ru": "Окна 1–7 находятся в пассажирском зале каждого поста. На Кум-Шагыле только окна 1 и 3, и только летом."
+   }
+  },
+  {
+   "id": "uz",
+   "vehicle": true,
+   "name": {
+    "en": "From Uzbekistan by road over the Fergana rim (Kyzyl-Tuu, Dostuk, Kyzyl-Jar, Izbaskan)",
+    "ir": "Özbekstandan Fergana kırkası arkıluu jol menen (Kızıl-Tuu, Dostuk, Kızıl-Jar, Izbaskan)",
+    "ru": "Из Узбекистана по дороге через Ферганский обод (Кызыл-Туу, Достук, Кызыл-Жар, Избаскан)"
+   },
+   "q": {
+    "en": "You are coming in from Uzbekistan by road at Kyzyl-Tuu",
+    "ir": "Siz Özbekstandan Kızıl-Tuu arkıluu jol menen kelip jatasız",
+    "ru": "Вы въезжаете из Узбекистана по дороге через Кызыл-Туу"
+   },
+   "place": {
+    "en": "the inspection shed at Kyzyl-Tuu",
+    "ir": "Kızıl-Tuudagı teksherüü sarayı",
+    "ru": "досмотровый навес в Кызыл-Туу"
+   },
+   "windows": {
+    "en": "All seven windows at Kyzyl-Tuu and Dostuk, open the same hours as the Uzbek posts opposite. Kyzyl-Jar and Izbaskan have Windows 1 and 3 only: for anything else go back to Kyzyl-Tuu.",
+    "ir": "Kızıl-Tuu menen Dostukta jeti tereze teñ, karshıdagı özbek posttoru menen bir saatta ishteyt. Kızıl-Jar menen Izbaskanda 1- jana 3-terezeler gana: kalganı üchün Kızıl-Tuuga kaytıñız.",
+    "ru": "Все семь окон в Кызыл-Туу и Достуке, часы работы как у узбекских постов напротив. В Кызыл-Жаре и Избаскане только окна 1 и 3: по остальным вопросам возвращайтесь в Кызыл-Туу."
+   }
+  },
+  {
+   "id": "kg",
+   "vehicle": true,
+   "name": {
+    "en": "From Kyrgyzstan by road (Suzak, Kichi-Korgon)",
+    "ir": "Kırgızstandan jol menen (Suzak, Kichi-Korgon)",
+    "ru": "Из Киргизии по дороге (Сузак, Кичи-Коргон)"
+   },
+   "q": {
+    "en": "You are coming in from Kyrgyzstan by road at Suzak",
+    "ir": "Siz Kırgızstandan Suzak arkıluu jol menen kelip jatasız",
+    "ru": "Вы въезжаете из Киргизии по дороге через Сузак"
+   },
+   "place": {
+    "en": "the yard at Suzak",
+    "ir": "Suzaktagı koroo",
+    "ru": "двор поста Сузак"
+   },
+   "windows": {
+    "en": "Windows 1 to 7 at Suzak. Kichi-Korgon takes passengers only and has Window 1; goods that need any other window are sent to Suzak.",
+    "ir": "Suzakta 1–7-terezeler. Kichi-Korgon joloochulardı gana ötkörüp, 1-terezesi gana bar; bashka terezeni talap kılgan buyumdar Suzakka jiberilet.",
+    "ru": "Окна 1–7 в Сузаке. Кичи-Коргон пропускает только пассажиров, там одно окно № 1; товары, требующие других окон, направляются в Сузак."
+   }
+  },
+  {
+   "id": "air-kz",
+   "vehicle": false,
+   "name": {
+    "en": "By air into Talas: Iradiya from Almaty",
+    "ir": "Talaska aba jolu menen: Iradiya Almatıdan",
+    "ru": "Самолётом в Талас: «Иради́я» из Алматы"
+   },
+   "q": {
+    "en": "You land at Talas on the Iradiya flight from Almaty",
+    "ir": "Siz Almatıdan Iradiya reysi menen Talaska konduñuz",
+    "ru": "Вы прилетели в Талас рейсом «Иради́и» из Алматы"
+   },
+   "place": {
+    "en": "Room 6 of the Talas Civil Air Terminal",
+    "ir": "Talas Jarandık Aba Terminalının 6-bölmösü",
+    "ru": "комната № 6 Таласского гражданского аэровокзала"
+   },
+   "windows": {
+    "en": "Windows 1 to 7 are in the arrivals hall of the Talas Civil Air Terminal, behind the baggage belt. Window 4 is staffed only on flight days.",
+    "ir": "1–7-terezeler Talas Jarandık Aba Terminalının kelüü zalında, jük lentasının artında. 4-tereze reys kündörü gana ishteyt.",
+    "ru": "Окна 1–7 в зале прилёта Таласского гражданского аэровокзала, за багажной лентой. Окно 4 работает только в дни рейсов."
+   }
+  },
+  {
+   "id": "air-uz",
+   "vehicle": false,
+   "name": {
+    "en": "By air into Talas: Iradiya from Tashkent",
+    "ir": "Talaska aba jolu menen: Iradiya Tashkenttan",
+    "ru": "Самолётом в Талас: «Иради́я» из Ташкента"
+   },
+   "q": {
+    "en": "You land at Talas on the Iradiya flight from Tashkent",
+    "ir": "Siz Tashkenttan Iradiya reysi menen Talaska konduñuz",
+    "ru": "Вы прилетели в Талас рейсом «Иради́и» из Ташкента"
+   },
+   "place": {
+    "en": "Room 6 of the Talas Civil Air Terminal",
+    "ir": "Talas Jarandık Aba Terminalının 6-bölmösü",
+    "ru": "комната № 6 Таласского гражданского аэровокзала"
+   },
+   "windows": {
+    "en": "Windows 1 to 7 are in the arrivals hall of the Talas Civil Air Terminal, behind the baggage belt. Window 4 is staffed only on flight days.",
+    "ir": "1–7-terezeler Talas Jarandık Aba Terminalının kelüü zalında, jük lentasının artında. 4-tereze reys kündörü gana ishteyt.",
+    "ru": "Окна 1–7 в зале прилёта Таласского гражданского аэровокзала, за багажной лентой. Окно 4 работает только в дни рейсов."
+   }
+  },
+  {
+   "id": "air-far",
+   "vehicle": false,
+   "name": {
+    "en": "By air into Talas: Iradiya from Dubai or Istanbul",
+    "ir": "Talaska aba jolu menen: Iradiya Dubay je Stambuldan",
+    "ru": "Самолётом в Талас: «Иради́я» из Дубая или Стамбула"
+   },
+   "q": {
+    "en": "You land at Talas on the Iradiya flight from Dubai",
+    "ir": "Siz Dubaydan Iradiya reysi menen Talaska konduñuz",
+    "ru": "Вы прилетели в Талас рейсом «Иради́и» из Дубая"
+   },
+   "place": {
+    "en": "Room 6 of the Talas Civil Air Terminal",
+    "ir": "Talas Jarandık Aba Terminalının 6-bölmösü",
+    "ru": "комната № 6 Таласского гражданского аэровокзала"
+   },
+   "windows": {
+    "en": "Windows 1 to 7 are in the arrivals hall of the Talas Civil Air Terminal, behind the baggage belt. Window 4 is staffed only on flight days.",
+    "ir": "1–7-terezeler Talas Jarandık Aba Terminalının kelüü zalında, jük lentasının artında. 4-tereze reys kündörü gana ishteyt.",
+    "ru": "Окна 1–7 в зале прилёта Таласского гражданского аэровокзала, за багажной лентой. Окно 4 работает только в дни рейсов."
+   }
+  },
+  {
+   "id": "rail",
+   "vehicle": false,
+   "name": {
+    "en": "By rail: train crews and freight escorts (no passenger trains have run since 2007)",
+    "ir": "Temir jol menen: poezd brigadaları jana jük koshtoochular (2007-jıldan beri joloochu poezdderi jürbögön)",
+    "ru": "По железной дороге: поездные бригады и сопровождающие грузов (пассажирские поезда не ходят с 2007 года)"
+   },
+   "q": {
+    "en": "You are a freight escort coming back from Kazakhstan by rail to the Nurzhan rail border station",
+    "ir": "Siz Kazakstandan Nurzhan chek ara temir jol stantsiyasına kaytıp kelgen jük koshtoochususuz",
+    "ru": "Вы сопровождающий груза и возвращаетесь из Казахстана на пограничную станцию Нуржан"
+   },
+   "place": {
+    "en": "Siding No. 14 at the Nurzhan rail border station",
+    "ir": "Nurzhan chek ara stantsiyasının № 14 jol tarmagı",
+    "ru": "подъездной путь № 14 пограничной станции Нуржан"
+   },
+   "windows": {
+    "en": "Crews are cleared in the crew room at the Nurzhan rail border station or the Talas North Terminal. The windows are the same seven; Windows 2 and 5 open on request.",
+    "ir": "Brigadalar Nurzhan chek ara stantsiyasındagı je Talas Tündük Terminalındagı brigada bölmösündö tarizdelet. Terezeler oshol jeti; 2- jana 5-terezeler suroo boyuncha achılat.",
+    "ru": "Бригады оформляются в бригадной комнате пограничной станции Нуржан или Таласского северного терминала. Окна те же семь; окна 2 и 5 открываются по запросу."
+   }
+  },
+  {
+   "id": "atr",
+   "vehicle": true,
+   "name": {
+    "en": "From the autonomous tribal regions, across the line",
+    "ir": "Avtonomduu uruu aymaktarınan, liniya arkıluu",
+    "ru": "Из автономных племенных районов, через линию"
+   },
+   "q": {
+    "en": "You are coming back across the line at the Qara-Chik checkpoint",
+    "ir": "Siz Kara-Chik nazarat punktu arkıluu liniyadan kaytıp kelip jatasız",
+    "ru": "Вы возвращаетесь через линию на контрольно-пропускном пункте Кара-Чик"
+   },
+   "place": {
+    "en": "the Gendarmerie hut at the Qara-Chik checkpoint, then the Terminal",
+    "ir": "Kara-Chik nazarat punktundagı jandarmeriya üychösü, andan kiyin Terminal",
+    "ru": "будка жандармерии на КПП Кара-Чик, затем Терминал"
+   },
+   "windows": {
+    "en": "The Customs Service has no posts on the line. Goods are declared afterwards, within three working days, at the Talas Customs Clearance Terminal (Gate 2) or the customs desk at the Nurzhan rail border station, where Windows 1 to 7 are.",
+    "ir": "Bajı kızmatının liniyada posttoru jok. Buyumdar keyin, üch jumush kündün ichinde, Talas bajı tarizdöö terminalında (2-darbaza) je Nurzhan chek ara stantsiyasındagı bajı stolunda deklaratsiyalanat; 1–7-terezeler oshol jerde.",
+    "ru": "У Таможенной службы нет постов на линии. Товары декларируются позже, в течение трёх рабочих дней, на Таласском терминале таможенного оформления (ворота 2) или на таможенной стойке пограничной станции Нуржан, где находятся окна 1–7."
+   }
+  }
+ ],
+ "groups": {
+  "kzside": [
+   "kz",
+   "air-kz"
+  ],
+  "uzside": [
+   "uz",
+   "air-uz"
+  ],
+  "air": [
+   "air-kz",
+   "air-uz",
+   "air-far"
+  ],
+  "road": [
+   "kz",
+   "uz",
+   "kg"
+  ]
+ },
+ "stays": {
+  "short": {
+   "en": "abroad less than 72 hours",
+   "ir": "chet elde 72 saattan az",
+   "ru": "за границей менее 72 часов"
+  },
+  "long": {
+   "en": "abroad 72 hours or more",
+   "ir": "chet elde 72 saat je andan köp",
+   "ru": "за границей 72 часа и более"
+  }
+ },
+ "outcomes": {
+  "ok": {
+   "rank": 0,
+   "label": {
+    "en": "Allowed",
+    "ir": "Uruksat",
+    "ru": "Разрешено"
+   },
+   "minutes": 0,
+   "window": null
+  },
+  "declare": {
+   "rank": 1,
+   "label": {
+    "en": "Allowed with declaration",
+    "ir": "Deklaratsiya menen uruksat",
+    "ru": "Разрешено с декларированием"
+   },
+   "minutes": 35,
+   "window": 1,
+   "form": "CS-1"
+  },
+  "duty": {
+   "rank": 2,
+   "label": {
+    "en": "Allowed with duty",
+    "ir": "Bajı menen uruksat",
+    "ru": "Разрешено с уплатой пошлины"
+   },
+   "minutes": 70,
+   "window": 3,
+   "form": "CS-1"
+  },
+  "permit": {
+   "rank": 3,
+   "label": {
+    "en": "Needs a permit from another body",
+    "ir": "Bashka organdın uruksatı kerek",
+    "ru": "Нужно разрешение другого органа"
+   },
+   "minutes": 150,
+   "window": 5,
+   "form": "CS-1"
+  },
+  "refer": {
+   "rank": 3.5,
+   "label": {
+    "en": "Referred to the Ministry of Economy",
+    "ir": "Ekonomika ministrligine jiberilet",
+    "ru": "Направляется в Министерство экономики"
+   },
+   "minutes": 200,
+   "window": 7
+  },
+  "forbidden": {
+   "rank": 4,
+   "label": {
+    "en": "Forbidden",
+    "ir": "Tıyuu salıngan",
+    "ru": "Запрещено"
+   },
+   "minutes": 180,
+   "window": 6
+  }
+ },
+ "windows": {
+  "1": {
+   "en": "Window 1, red channel: declarations on Form CS-1",
+   "ir": "1-tereze, kızıl koridor: CS-1 formasındagı deklaratsiyalar",
+   "ru": "Окно 1, красный коридор: декларации по форме CS-1"
+  },
+  "2": {
+   "en": "Window 2: currency control",
+   "ir": "2-tereze: valyuta kontrolu",
+   "ru": "Окно 2: валютный контроль"
+  },
+  "3": {
+   "en": "Window 3: cashier (duties and fees in cash som; the card terminal is temporarily out of service)",
+   "ir": "3-tereze: kassa (bajılar jana alımdar nak som menen; karta terminalı ubaktıluu ishtebeyt)",
+   "ru": "Окно 3: касса (пошлины и сборы наличными сомами; терминал для карт временно не работает)"
+  },
+  "4": {
+   "en": "Window 4: veterinary and plant quarantine (break 13:00 to 14:00)",
+   "ir": "4-tereze: veterinardık jana ösümdük karantini (tınıguu 13:00–14:00)",
+   "ru": "Окно 4: ветеринарный и фитосанитарный контроль (перерыв с 13:00 до 14:00)"
+  },
+  "5": {
+   "en": "Window 5: permits of other bodies (checked here, not issued)",
+   "ir": "5-tereze: bashka organdardın uruksattarı (bul jerde teksherilet, berilbeyt)",
+   "ru": "Окно 5: разрешения других органов (здесь проверяются, но не выдаются)"
+  },
+  "6": {
+   "en": "Window 6: detention and seizure (receipts for goods held)",
+   "ir": "6-tereze: karmoo jana alıp koyuu (karmalgan buyumdar üchün kübölük)",
+   "ru": "Окно 6: задержание и изъятие (квитанции на задержанные товары)"
+  },
+  "7": {
+   "en": "Window 7: written enquiries",
+   "ir": "7-tereze: jazuu jüzündögü suroolor",
+   "ru": "Окно 7: письменные обращения"
+  }
+ },
+ "window_order": [
+  1,
+  4,
+  5,
+  2,
+  3,
+  6,
+  7
+ ],
+ "window_order_note": {
+  "en": "Go to the windows in this order: Window 4 stamps the declaration before Window 3 will take payment.",
+  "ir": "Terezelerge ushul tartipte barıñız: 3-tereze tölömdü 4-terezenin möörünön kiyin gana kabıl alat.",
+  "ru": "Проходите окна в этом порядке: окно 3 принимает оплату только после штампа окна 4."
+ },
+ "fee": {
+  "som": {
+   "$period": {
+    "2026": 40,
+    "2027": 50
+   }
+  },
+  "ref": "66-o/2024 §5",
+  "label": {
+   "en": "Clearance fee, once per declaration on which duty is paid",
+   "ir": "Tarizdöö alımı, bajı tölöngön ar bir deklaratsiyaga bir jolu",
+   "ru": "Сбор за оформление, один раз с декларации, по которой уплачивается пошлина"
+  }
+ },
+ "forms": {
+  "CS-1": {
+   "name": {
+    "en": "Passenger customs declaration",
+    "ir": "Joloochunun bajı deklaratsiyası",
+    "ru": "Пассажирская таможенная декларация"
+   },
+   "url": "https://e-irad.org/forms/CS-1.pdf"
+  },
+  "1-VET": {
+   "name": {
+    "en": "Veterinary certificate, State Veterinary Inspectorate",
+    "ir": "Veterinardık kübölük, Mamlekettik veterinardık inspektsiya",
+    "ru": "Ветеринарное свидетельство, Государственная ветеринарная инспекция"
+   }
+  },
+  "2-VET": {
+   "name": {
+    "en": "Veterinary certificate for live animals",
+    "ir": "Tirüü janıbarlar üchün veterinardık kübölük",
+    "ru": "Ветеринарное свидетельство на живых животных"
+   }
+  },
+  "PQ-3": {
+   "name": {
+    "en": "Phytosanitary certificate, Plant Quarantine Inspectorate",
+    "ir": "Fitosanitardık kübölük, Ösümdük karantini inspektsiyası",
+    "ru": "Фитосанитарный сертификат, Инспекция по карантину растений"
+   }
+  },
+  "IMEI": {
+   "name": {
+    "en": "IMEI registration on e-Irad, within 10 days of entry",
+    "ir": "e-Iradda IMEI kattoo, kirgenden kiyin 10 kündün ichinde",
+    "ru": "Регистрация IMEI на e-Irad в течение 10 дней после въезда"
+   },
+   "url": "https://e-irad.org/"
+  },
+  "RG-52": {
+   "name": {
+    "en": "Gendarmerie permit under Order 52-o",
+    "ir": "52-o buyrugu boyuncha jandarmeriyanın uruksatı",
+    "ru": "Разрешение жандармерии по приказу № 52-о"
+   },
+   "url": "https://jandarm.iradgov.org/"
+  },
+  "HPS": {
+   "name": {
+    "en": "Heritage Protection Service export check",
+    "ir": "Muras korgoo kızmatının eksport teksherüüsü",
+    "ru": "Экспортная проверка Службы охраны наследия"
+   },
+   "url": "https://heritage.iradgov.org/"
+  },
+  "BOI": {
+   "name": {
+    "en": "Bank of Irad certificate of the origin of funds",
+    "ir": "Irad bankının akchanın kelip chıgıshı jönündö kübölügü",
+    "ru": "Справка Банка Ирада о происхождении средств"
+   },
+   "url": "https://bank.iradgov.org/"
+  },
+  "MH": {
+   "name": {
+    "en": "Ministry of Health import permit",
+    "ir": "Salamattıktı saktoo ministrliginin import uruksatı",
+    "ru": "Разрешение Министерства здравоохранения на ввоз"
+   }
+  },
+  "DPI": {
+   "name": {
+    "en": "Registration as printed matter for distribution (Department of Public Information, Regulation No. 12 of 2009)",
+    "ir": "Taratuu üchün basma buyum katarı kattoo (Koomduk maalımat departamenti, 2009-jıldagı № 12 jobo)",
+    "ru": "Регистрация в качестве печатной продукции для распространения (Департамент общественной информации, Положение № 12 от 2009 года)"
+   }
+  },
+  "MIS": {
+   "name": {
+    "en": "Ministry of Internal Security weapons permit",
+    "ir": "Ichki koopsuzduk ministrliginin kural uruksatı",
+    "ru": "Разрешение Министерства внутренней безопасности на оружие"
+   }
+  },
+  "TERM": {
+   "name": {
+    "en": "Commercial import through the Talas Customs Clearance Terminal",
+    "ir": "Talas bajı tarizdöö terminalı arkıluu soodalık import",
+    "ru": "Коммерческий ввоз через Таласский терминал таможенного оформления"
+   },
+   "url": "/terminal.html"
+  },
+  "PET": {
+   "name": {
+    "en": "Bring a pet dog or cat from abroad (step by step on e-Irad)",
+    "ir": "Chet elden it je mıshık alıp kelüü (e-Iradda baskıchma-baskıch)",
+    "ru": "Ввоз собаки или кошки из-за рубежа (пошагово на e-Irad)"
+   },
+   "url": "https://e-irad.org/procedure.html?id=a-import-pet"
+  }
+ },
+ "units": {
+  "pcs": {
+   "en": "pcs",
+   "ir": "dana",
+   "ru": "шт."
+  },
+  "kg": {
+   "en": "kg",
+   "ir": "kg",
+   "ru": "кг"
+  },
+  "l": {
+   "en": "L",
+   "ir": "l",
+   "ru": "л"
+  },
+  "usd": {
+   "en": "USD",
+   "ir": "AKSh dolları",
+   "ru": "долл. США"
+  },
+  "som": {
+   "en": "som",
+   "ir": "som",
+   "ru": "сом"
+  },
+  "copies": {
+   "en": "copies",
+   "ir": "nuska",
+   "ru": "экз."
+  },
+  "head": {
+   "en": "head",
+   "ir": "bash",
+   "ru": "гол."
+  },
+  "packs": {
+   "en": "packs",
+   "ir": "kutu",
+   "ru": "уп."
+  }
+ },
+ "groups_items": [
+  [
+   "tob",
+   {
+    "en": "Tobacco and drink",
+    "ir": "Tameki jana ichimdik",
+    "ru": "Табак и напитки"
+   }
+  ],
+  [
+   "food",
+   {
+    "en": "Food",
+    "ir": "Azık-tülük",
+    "ru": "Продукты"
+   }
+  ],
+  [
+   "elec",
+   {
+    "en": "Phones and electronics",
+    "ir": "Telefondor jana elektronika",
+    "ru": "Телефоны и электроника"
+   }
+  ],
+  [
+   "money",
+   {
+    "en": "Money",
+    "ir": "Akcha",
+    "ru": "Деньги"
+   }
+  ],
+  [
+   "horse",
+   {
+    "en": "Horses and saddles",
+    "ir": "Jılkı jana eer",
+    "ru": "Лошади и сёдла"
+   }
+  ],
+  [
+   "faith",
+   {
+    "en": "Books and articles of worship",
+    "ir": "Kitepter jana dinıy buyumdar",
+    "ru": "Книги и предметы культа"
+   }
+  ],
+  [
+   "med",
+   {
+    "en": "Medicines",
+    "ir": "Dary-darmek",
+    "ru": "Лекарства"
+   }
+  ],
+  [
+   "other",
+   {
+    "en": "Other goods",
+    "ir": "Bashka buyumdar",
+    "ru": "Прочие товары"
+   }
+  ]
+ ],
+ "notes": {
+  "hotline": {
+   "en": "The Customs Service Hotline gives binding answers only in writing (Order 31-o of 2017, para 2.4). What you are told on the telephone, at a post or by this page is for information only.",
+   "ir": "Bajı kızmatının ishenim telefonu mildettüü joopterdi jazuu jüzündö gana beret (2017-jıldagı № 31-o buyruk, 2.4-punkt). Telefon arkıluu, postto je ushul barakta aytılgandar maalımat üchün gana.",
+   "ru": "Телефон доверия Таможенной службы даёт обязательные ответы только в письменной форме (приказ № 31-о от 2017 года, п. 2.4). Сказанное по телефону, на посту или на этой странице носит информационный характер."
+  },
+  "split": {
+   "en": "Goods divided between travellers to keep each share under a limit are counted together (Order 12-o, para 1.6).",
+   "ir": "Chekten ashpash üchün joloochular arasında bölüngön buyumdar birge eseptelet (12-o buyruk, 1.6-punkt).",
+   "ru": "Товары, разделённые между пассажирами, чтобы каждая доля не превышала норму, учитываются вместе (приказ № 12-о, п. 1.6)."
+  },
+  "pool": {
+   "en": "Family pooling applies only to members of one family in the same vehicle. An aircraft or a train is not a vehicle for this purpose (Order 12-o, para 1.4).",
+   "ir": "Üy-bülölük birikme bir unaadagı bir üy-bülönün müchölörünö gana koldonulat. Uchak je poezd bul maksatta unaa bolup eseptelbeyt (12-o buyruk, 1.4-punkt).",
+   "ru": "Семейное объединение норм применяется только к членам одной семьи в одном транспортном средстве. Самолёт или поезд для этой цели транспортным средством не является (приказ № 12-о, п. 1.4)."
+  },
+  "child": {
+   "en": "A child is anyone under 16 on the day of entry. For some goods a child counts as half a person, for some as a whole person and for some not at all; each line says which.",
+   "ir": "Bala: kirgen künü 16ga tolo elek ar kim. Ayrım buyumdar üchün bala jarım kishi, ayrımı üchün toluk kishi, ayrımı üchün takır eseptelbeyt; ar bir sap kaysınısı ekenin aytat.",
+   "ru": "Ребёнок — любой, кому в день въезда нет 16 лет. Для одних товаров ребёнок считается за половину человека, для других за целого, для третьих не считается вовсе; в каждой строке указано, как."
+  },
+  "rate": {
+   "en": "Values in dollars are converted to som at the official rate of the Bank of Irad on the day of entry.",
+   "ir": "Dollardagı narktar kirgen kündögü Irad bankının rasmiy kursu boyuncha somgo kotorulat.",
+   "ru": "Стоимость в долларах пересчитывается в сомы по официальному курсу Банка Ирада на день въезда."
+  },
+  "unpublished": {
+   "en": "The allowances from 1 July 2027 have not been published yet. Until they are, the page shows those from 1 January 2027, which may not be the ones that apply.",
+   "ir": "2027-jıldın 1-iyulunan tartıp chekter ali jarıyalana elek. Alar jarıyalanganga cheyin barak 2027-jıldın 1-yanvarındagı chekterdi körsötöt; alar koldonulbay kalıshı mümkün.",
+   "ru": "Нормы с 1 июля 2027 года ещё не опубликованы. До их публикации страница показывает нормы с 1 января 2027 года, которые могут не совпасть с действующими."
+  }
+ },
+ "items": [
+  {
+   "id": "cigarettes",
+   "group": "tob",
+   "name": {
+    "en": "Cigarettes",
+    "ir": "Sigaretter",
+    "ru": "Сигареты"
+   },
+   "unit": "pcs",
+   "qty": 200,
+   "count": "adult",
+   "pool": false,
+   "clauses": [
+    {
+     "when": {
+      "over": 400
+     },
+     "out": "forbidden",
+     "ref": "12-o/2011 §4.3",
+     "note": {
+      "en": "More than 400 cigarettes is a commercial quantity. The whole quantity is held, not only the part over the limit.",
+      "ir": "400dön ashık sigaret soodalık sanı bolup eseptelet. Chektan ashkan bölügü emes, bardıgı karmalat.",
+      "ru": "Более 400 сигарет считается коммерческой партией. Задерживается всё количество, а не только превышение."
+     }
+    },
+    {
+     "when": {
+      "over": {
+       "$period": {
+        "2026": {
+         "$route": {
+          "kz": {
+           "$stay": {
+            "short": 40,
+            "long": 200
+           }
+          },
+          "uz": 100,
+          "kg": 100,
+          "rail": 40,
+          "air": 200,
+          "atr": 200,
+          "*": 200
+         }
+        },
+        "2027": {
+         "$route": {
+          "kz": {
+           "$stay": {
+            "short": 20,
+            "long": 200
+           }
+          },
+          "uz": 100,
+          "kg": 100,
+          "rail": 20,
+          "air": 200,
+          "atr": 100,
+          "*": 200
+         }
+        }
+       }
+      }
+     },
+     "out": "duty",
+     "duty": {
+      "som": {
+       "$period": {
+        "2026": 1.1,
+        "2027": 1.35
+       }
+      }
+     },
+     "ref": "66-o/2024 §2.1",
+     "note": {
+      "en": "Duty is charged per cigarette over the allowance. Adults only: children have no tobacco allowance and cannot be counted. Not pooled, even in one car.",
+      "ir": "Bajı chekten ashkan ar bir sigaretke alınat. Chong kishilerge gana: balalardın tameki chegi jok. Bir unaada bolso da biriktirilbeyt.",
+      "ru": "Пошлина взимается с каждой сигареты сверх нормы. Только для взрослых: у детей нормы на табак нет. Не объединяется, даже в одной машине."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "12-o/2011 §4.1",
+     "note": {
+      "en": "Within the allowance. Adults only; not pooled.",
+      "ir": "Chektin ichinde. Chong kishilerge gana; biriktirilbeyt.",
+      "ru": "В пределах нормы. Только для взрослых; не объединяется."
+     }
+    }
+   ],
+   "quiz": [
+    100,
+    200,
+    300,
+    600
+   ]
+  },
+  {
+   "id": "alcohol",
+   "group": "tob",
+   "name": {
+    "en": "Spirits, wine and beer",
+    "ir": "Arak, sharap jana sıra",
+    "ru": "Крепкие напитки, вино и пиво"
+   },
+   "unit": "l",
+   "qty": 2,
+   "count": "adult",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 5
+     },
+     "out": "forbidden",
+     "ref": "12-o/2011 §4.5",
+     "note": {
+      "en": "More than 5 litres per adult is a commercial quantity.",
+      "ir": "Bir chong kishige 5 litrden ashıgı soodalık sanı.",
+      "ru": "Более 5 литров на взрослого считается коммерческой партией."
+     }
+    },
+    {
+     "when": {
+      "over": {
+       "$period": {
+        "2026": {
+         "$route": {
+          "kz": {
+           "$stay": {
+            "short": 1,
+            "long": 2
+           }
+          },
+          "uz": {
+           "$stay": {
+            "short": 1,
+            "long": 2
+           }
+          },
+          "kg": 2,
+          "rail": 0.5,
+          "air": 2,
+          "atr": 2,
+          "*": 2
+         }
+        },
+        "2027": {
+         "$route": {
+          "kz": {
+           "$stay": {
+            "short": 0.5,
+            "long": 2
+           }
+          },
+          "uz": {
+           "$stay": {
+            "short": 1,
+            "long": 2
+           }
+          },
+          "kg": 2,
+          "rail": 0.5,
+          "air": 2,
+          "atr": 1,
+          "*": 2
+         }
+        }
+       }
+      }
+     },
+     "out": "duty",
+     "duty": {
+      "som": {
+       "$period": {
+        "2026": 75,
+        "2027": 90
+       }
+      }
+     },
+     "ref": "66-o/2024 §2.2",
+     "note": {
+      "en": "Duty per litre over the allowance. Adults only; pooled in one family car. Beer counts litre for litre, the same as spirits.",
+      "ir": "Chekten ashkan ar bir litrge bajı. Chong kishilerge gana; bir üy-bülölük unaada biriktirilet. Sıra arak menen bir litrge bir litr eseptelet.",
+      "ru": "Пошлина с каждого литра сверх нормы. Только для взрослых; в одной семейной машине объединяется. Пиво считается литр за литр, как крепкие напитки."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "12-o/2011 §4.4",
+     "note": {
+      "en": "Within the allowance. Adults only.",
+      "ir": "Chektin ichinde. Chong kishilerge gana.",
+      "ru": "В пределах нормы. Только для взрослых."
+     }
+    }
+   ],
+   "quiz": [
+    1,
+    2,
+    3,
+    6
+   ]
+  },
+  {
+   "id": "kymyz",
+   "group": "tob",
+   "name": {
+    "en": "Kymyz (mare's milk)",
+    "ir": "Kımız",
+    "ru": "Кумыс"
+   },
+   "unit": "l",
+   "qty": 3,
+   "count": "half",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 10
+     },
+     "out": "permit",
+     "form": "1-VET",
+     "window": 4,
+     "ref": "64-o/2016 §6.4",
+     "note": {
+      "en": "Over 10 litres per person needs a veterinary certificate (Form 1-VET). Kymyz under 2.5% alcohol (IST 7-97) is a dairy product, not a drink.",
+      "ir": "Bir kishige 10 litrden ashıgı üchün veterinardık kübölük kerek (1-VET forması). 2,5%tan az spirti bar kımız (IST 7-97) sütten jasalgan azık, ichimdik emes.",
+      "ru": "Свыше 10 литров на человека нужно ветеринарное свидетельство (форма 1-VET). Кумыс крепостью до 2,5% (IST 7-97) — молочный продукт, а не напиток."
+     }
+    },
+    {
+     "when": {
+      "over": 3
+     },
+     "out": "declare",
+     "window": 4,
+     "ref": "64-o/2016 §6.3",
+     "note": {
+      "en": "Over 3 litres per person: declare at Window 4. Children count as half a person.",
+      "ir": "Bir kishige 3 litrden ashsa: 4-terezede deklaratsiyalañız. Balalar jarım kishi bolup eseptelet.",
+      "ru": "Свыше 3 литров на человека: задекларируйте в окне 4. Дети считаются за половину человека."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §6.3",
+     "note": {
+      "en": "Within 3 litres per person. Children count as half a person.",
+      "ir": "Bir kishige 3 litrge cheyin. Balalar jarım kishi.",
+      "ru": "До 3 литров на человека. Дети считаются за половину человека."
+     }
+    }
+   ],
+   "quiz": [
+    2,
+    5,
+    12
+   ],
+   "poster": {
+    "route": [
+     "air"
+    ],
+    "note": {
+     "en": "The poster in the arrivals hall of the Talas Civil Air Terminal still lists kymyz under alcohol (2 litres per adult, nothing for children). The poster predates the 2024 amendment of Order 64-o and this page is correct, but inspectors at the terminal may follow the poster until it is replaced.",
+     "ir": "Talas Jarandık Aba Terminalının kelüü zalındagı plakat kımızdı ali alkogoldun katarında körsötöt (bir chong kishige 2 litr, balalarga ech nerse). Plakat 64-o buyrugunun 2024-jılkı özgörtüüsünön murun basılgan, bul barak tuura, birok terminaldagı inspektorlor plakat almashtırılganga cheyin aga ılayık ish kılıshı mümkün.",
+     "ru": "Плакат в зале прилёта Таласского гражданского аэровокзала до сих пор относит кумыс к алкоголю (2 литра на взрослого, детям ничего). Плакат напечатан до изменений 2024 года в приказ № 64-о, и верна эта страница, но инспекторы в аэровокзале могут руководствоваться плакатом, пока его не заменят."
+    }
+   }
+  },
+  {
+   "id": "fruit",
+   "group": "food",
+   "name": {
+    "en": "Fresh fruit (apricots, apples, grapes and the like; not melons)",
+    "ir": "Jañı jemish (örük, alma, jüzüm j.b.; koondon bashka)",
+    "ru": "Свежие фрукты (абрикосы, яблоки, виноград и т. п.; кроме бахчевых)"
+   },
+   "unit": "kg",
+   "qty": 3,
+   "count": "half",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "uzside"
+      ]
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §4.1",
+     "note": {
+      "en": "Fresh fruit may not be brought in from Uzbekistan, by road or by air, under the fruit-fly quarantine. Melons are a separate line.",
+      "ir": "Jañı jemishti Özbekstandan jol je aba menen alıp kirüügö jemish chımını karantini boyuncha bolboyt. Koon - özünchö sap.",
+      "ru": "Свежие фрукты из Узбекистана, по дороге или самолётом, ввозить нельзя из-за карантина по плодовой мухе. Бахчевые — отдельная строка."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "air-far"
+      ]
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §4.2",
+     "note": {
+      "en": "No fresh plant products on flights from outside the region.",
+      "ir": "Aymaktan tıshkarkı reysterde jañı ösümdük azık bolboyt.",
+      "ru": "На рейсах из-за пределов региона свежая растительная продукция запрещена."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "kg"
+      ]
+     },
+     "out": "declare",
+     "window": 4,
+     "ref": "64-o/2016 §4.6",
+     "note": {
+      "en": "From Kyrgyzstan every kilogram is declared at Window 4 for plant quarantine.",
+      "ir": "Kırgızstandan ar bir kilogram 4-terezede ösümdük karantini üchün deklaratsiyalanat.",
+      "ru": "Из Киргизии каждый килограмм декларируется в окне 4 для карантинного контроля."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "atr"
+      ],
+      "over": 20
+     },
+     "out": "declare",
+     "window": 4,
+     "ref": "64-o/2016 §4.7",
+     "note": {
+      "en": "From across the line, over 20 kg per person is declared within three working days.",
+      "ir": "Liniyanın arı jagınan bir kishige 20 kgdan ashıgı üch jumush kündün ichinde deklaratsiyalanat.",
+      "ru": "С той стороны линии свыше 20 кг на человека декларируется в течение трёх рабочих дней."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "atr"
+      ]
+     },
+     "out": "ok",
+     "ref": "64-o/2016 §4.7",
+     "note": {
+      "en": "Within 20 kg per person from across the line.",
+      "ir": "Liniyanın arı jagınan bir kishige 20 kgga cheyin.",
+      "ru": "До 20 кг на человека с той стороны линии."
+     }
+    },
+    {
+     "when": {
+      "over": 25
+     },
+     "out": "permit",
+     "form": "PQ-3",
+     "window": 4,
+     "ref": "64-o/2016 §4.5",
+     "note": {
+      "en": "Over 25 kg per person needs a phytosanitary certificate (Form PQ-3).",
+      "ir": "Bir kishige 25 kgdan ashıgı üchün fitosanitardık kübölük kerek (PQ-3).",
+      "ru": "Свыше 25 кг на человека нужен фитосанитарный сертификат (форма PQ-3)."
+     }
+    },
+    {
+     "when": {
+      "over": 5
+     },
+     "out": "declare",
+     "window": 4,
+     "ref": "64-o/2016 §4.4",
+     "note": {
+      "en": "Over 5 kg per person: declare at Window 4. Children count as half a person.",
+      "ir": "Bir kishige 5 kgdan ashsa: 4-terezede deklaratsiyalañız. Balalar jarım kishi.",
+      "ru": "Свыше 5 кг на человека: задекларируйте в окне 4. Дети считаются за половину человека."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §4.4",
+     "note": {
+      "en": "Within 5 kg per person. Children count as half a person.",
+      "ir": "Bir kishige 5 kgga cheyin. Balalar jarım kishi.",
+      "ru": "До 5 кг на человека. Дети считаются за половину человека."
+     }
+    }
+   ],
+   "quiz": [
+    2,
+    4,
+    8,
+    30
+   ]
+  },
+  {
+   "id": "melons",
+   "group": "food",
+   "name": {
+    "en": "Melons and watermelons",
+    "ir": "Koon jana darbız",
+    "ru": "Дыни и арбузы"
+   },
+   "unit": "pcs",
+   "qty": 2,
+   "count": "full",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "uzside"
+      ],
+      "season": {
+       "melon": false
+      }
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §4.3",
+     "note": {
+      "en": "From Uzbekistan melons are allowed only in melon season (15 July to 15 October). A watermelon is a melon for this purpose.",
+      "ir": "Özbekstandan koon koon mezgilinde gana (15-iyuldan 15-oktyabrga cheyin) uruksat. Bul maksatta darbız da koon.",
+      "ru": "Из Узбекистана бахчевые разрешены только в сезон (с 15 июля по 15 октября). Арбуз для этой цели считается дыней."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "uzside"
+      ],
+      "over": 10
+     },
+     "out": "permit",
+     "form": "PQ-3",
+     "window": 4,
+     "ref": "64-o/2016 §4.3",
+     "note": {
+      "en": "More than 10 melons per person is a consignment and needs a phytosanitary certificate.",
+      "ir": "Bir kishige 10don ashık koon jük bolup eseptelet, fitosanitardık kübölük kerek.",
+      "ru": "Более 10 дынь на человека — партия, нужен фитосанитарный сертификат."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "uzside"
+      ],
+      "over": 2
+     },
+     "out": "duty",
+     "duty": {
+      "som": {
+       "$period": {
+        "2026": 6,
+        "2027": 8
+       }
+      }
+     },
+     "ref": "64-o/2016 §4.3",
+     "note": {
+      "en": "In season, 2 melons per person are free; each one over that pays a fixed duty. Children count as whole persons for melons.",
+      "ir": "Mezgilde bir kishige 2 koon akısız; andan ashkan ar birine belgilüü bajı. Koon üchün balalar toluk kishi.",
+      "ru": "В сезон 2 дыни на человека бесплатно; за каждую сверх — твёрдая пошлина. Для бахчевых дети считаются за целого человека."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "uzside"
+      ]
+     },
+     "out": "ok",
+     "ref": "64-o/2016 §4.3",
+     "note": {
+      "en": "In season, within 2 melons per person.",
+      "ir": "Mezgilde, bir kishige 2 koongo cheyin.",
+      "ru": "В сезон, до 2 дынь на человека."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "air-far"
+      ]
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §4.2",
+     "note": {
+      "en": "No fresh plant products on flights from outside the region.",
+      "ir": "Aymaktan tıshkarkı reysterde jañı ösümdük azık bolboyt.",
+      "ru": "На рейсах из-за пределов региона свежая растительная продукция запрещена."
+     }
+    },
+    {
+     "when": {
+      "over": 3
+     },
+     "out": "declare",
+     "window": 4,
+     "ref": "64-o/2016 §4.3",
+     "note": {
+      "en": "Over 3 melons per person: declare at Window 4.",
+      "ir": "Bir kishige 3 koondon ashsa: 4-terezede deklaratsiyalañız.",
+      "ru": "Свыше 3 дынь на человека: задекларируйте в окне 4."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §4.3",
+     "note": {
+      "en": "Within 3 melons per person, any time of year.",
+      "ir": "Bir kishige 3 koongo cheyin, jıldın kaalagan mezgilinde.",
+      "ru": "До 3 дынь на человека, в любое время года."
+     }
+    }
+   ],
+   "quiz": [
+    1,
+    2,
+    4,
+    12
+   ]
+  },
+  {
+   "id": "dried",
+   "group": "food",
+   "name": {
+    "en": "Dried fruit and nuts",
+    "ir": "Kurgatılgan jemish jana jañgak",
+    "ru": "Сухофрукты и орехи"
+   },
+   "unit": "kg",
+   "qty": 3,
+   "count": "half",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 50
+     },
+     "out": "permit",
+     "form": "TERM",
+     "ref": "64-o/2016 §4.8",
+     "note": {
+      "en": "Over 50 kg per person is commercial and goes through the Terminal.",
+      "ir": "Bir kishige 50 kgdan ashıgı soodalık, Terminal arkıluu ötöt.",
+      "ru": "Свыше 50 кг на человека — коммерческий ввоз через Терминал."
+     }
+    },
+    {
+     "when": {
+      "over": 10
+     },
+     "out": "declare",
+     "ref": "64-o/2016 §4.8",
+     "note": {
+      "en": "Over 10 kg per person: declare. Dried fruit is not fresh fruit, so it is allowed from every route.",
+      "ir": "Bir kishige 10 kgdan ashsa: deklaratsiyalañız. Kurgatılgan jemish jañı jemish emes, ar bir joldon uruksat.",
+      "ru": "Свыше 10 кг на человека: задекларируйте. Сухофрукты — не свежие фрукты, их можно ввозить любым маршрутом."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §4.8",
+     "note": {
+      "en": "Within 10 kg per person. Children count as half a person.",
+      "ir": "Bir kishige 10 kgga cheyin. Balalar jarım kishi.",
+      "ru": "До 10 кг на человека. Дети считаются за половину человека."
+     }
+    }
+   ],
+   "quiz": [
+    3,
+    12,
+    60
+   ]
+  },
+  {
+   "id": "kurut",
+   "group": "food",
+   "name": {
+    "en": "Kurut (dried curd)",
+    "ir": "Kurut",
+    "ru": "Курут"
+   },
+   "unit": "kg",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 20
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §6.2",
+     "note": {
+      "en": "More than 20 kg of kurut may not be carried by a traveller at all.",
+      "ir": "20 kgdan ashık kuruttu joloochu takır alıp kele albayt.",
+      "ru": "Более 20 кг курута пассажир ввозить не может."
+     }
+    },
+    {
+     "when": {
+      "over": 2,
+      "ask": {
+       "vet": true
+      }
+     },
+     "out": "declare",
+     "form": "1-VET",
+     "window": 4,
+     "ref": "64-o/2016 §6.2",
+     "note": {
+      "en": "Over 2 kg with a veterinary certificate: declare at Window 4. The 2 kg is for the whole party, not per person.",
+      "ir": "Veterinardık kübölügü menen 2 kgdan ashsa: 4-terezede deklaratsiyalañız. 2 kg bardık top üchün, bir kishige emes.",
+      "ru": "Свыше 2 кг с ветеринарным свидетельством: задекларируйте в окне 4. 2 кг — на всю группу, а не на человека."
+     }
+    },
+    {
+     "when": {
+      "over": 2
+     },
+     "out": "permit",
+     "form": "1-VET",
+     "window": 4,
+     "ref": "64-o/2016 §6.2",
+     "note": {
+      "en": "Over 2 kg needs a veterinary certificate (Form 1-VET) from the State Veterinary Inspectorate under Veterinary Control Regulation No. 77 (1998). The 2 kg is for the whole party.",
+      "ir": "2 kgdan ashıgı üchün Mamlekettik veterinardık inspektsiyanın veterinardık kübölügü kerek (1-VET), 1998-jıldagı № 77 Veterinardık kontrol jobosu boyuncha. 2 kg bardık top üchün.",
+      "ru": "Свыше 2 кг нужно ветеринарное свидетельство (форма 1-VET) Государственной ветеринарной инспекции по Положению о ветеринарном контроле № 77 (1998). 2 кг — на всю группу."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §6.2",
+     "note": {
+      "en": "Up to 2 kg for the whole party.",
+      "ir": "Bardık topko 2 kgga cheyin.",
+      "ru": "До 2 кг на всю группу."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "vet",
+     "q": {
+      "en": "Do you have a veterinary certificate for it?",
+      "ir": "Aga veterinardık kübölügüñüz barbı?",
+      "ru": "Есть ли на него ветеринарное свидетельство?"
+     },
+     "yes": {
+      "en": "You have a veterinary certificate.",
+      "ir": "Veterinardık kübölügüñüz bar.",
+      "ru": "У вас есть ветеринарное свидетельство."
+     },
+     "no": {
+      "en": "You have no veterinary certificate.",
+      "ir": "Veterinardık kübölügüñüz jok.",
+      "ru": "Ветеринарного свидетельства нет."
+     },
+     "def": false
+    }
+   ],
+   "quiz": [
+    1,
+    3,
+    25
+   ]
+  },
+  {
+   "id": "honey",
+   "group": "food",
+   "name": {
+    "en": "Honey",
+    "ir": "Bal",
+    "ru": "Мёд"
+   },
+   "unit": "kg",
+   "qty": 2,
+   "count": "half",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "ask": {
+       "sealed": false
+      }
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §7.1",
+     "note": {
+      "en": "Honey only in sealed jars with a label in Iradi or Russian. A label in Kazakh, Uzbek or English alone does not count; a handwritten label counts if it is in Iradi or Russian and names the apiary.",
+      "ir": "Bal Iradcha je oruscha jarlıgı bar jabık bankada gana. Kazakcha, özbekche je anglische gana jarlık eseptelbeyt; kol menen jazılgan jarlık Iradcha je oruscha bolup, ary chardanın atın atasa eseptelet.",
+      "ru": "Мёд только в запечатанных банках с этикеткой на ирадском или русском. Этикетка только на казахском, узбекском или английском не считается; рукописная считается, если она на ирадском или русском и называет пасеку."
+     }
+    },
+    {
+     "when": {
+      "over": 15
+     },
+     "out": "permit",
+     "form": "1-VET",
+     "window": 4,
+     "ref": "64-o/2016 §7.3",
+     "note": {
+      "en": "Over 15 kg per person needs a veterinary certificate (Form 1-VET).",
+      "ir": "Bir kishige 15 kgdan ashıgı üchün veterinardık kübölük kerek (1-VET).",
+      "ru": "Свыше 15 кг на человека нужно ветеринарное свидетельство (форма 1-VET)."
+     }
+    },
+    {
+     "when": {
+      "over": 3
+     },
+     "out": "declare",
+     "window": 4,
+     "ref": "64-o/2016 §7.2",
+     "note": {
+      "en": "Over 3 kg per person: declare at Window 4. Children count as half a person.",
+      "ir": "Bir kishige 3 kgdan ashsa: 4-terezede deklaratsiyalañız. Balalar jarım kishi.",
+      "ru": "Свыше 3 кг на человека: задекларируйте в окне 4. Дети считаются за половину человека."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §7.2",
+     "note": {
+      "en": "Sealed and labelled, within 3 kg per person.",
+      "ir": "Jabık jana jarlıktuu, bir kishige 3 kgga cheyin.",
+      "ru": "Запечатан и с этикеткой, до 3 кг на человека."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "sealed",
+     "q": {
+      "en": "Is it in sealed jars labelled in Iradi or Russian?",
+      "ir": "Iradcha je oruscha jarlıgı bar jabık bankadabı?",
+      "ru": "В запечатанных банках с этикеткой на ирадском или русском?"
+     },
+     "yes": {
+      "en": "The jars are sealed and labelled in Russian.",
+      "ir": "Bankalar jabık, oruscha jarlıgı bar.",
+      "ru": "Банки запечатаны, этикетка на русском."
+     },
+     "no": {
+      "en": "The jars are sealed but labelled only in Kazakh.",
+      "ir": "Bankalar jabık, birok jarlıgı kazakcha gana.",
+      "ru": "Банки запечатаны, но этикетка только на казахском."
+     },
+     "def": true
+    }
+   ],
+   "quiz": [
+    1,
+    4,
+    20
+   ]
+  },
+  {
+   "id": "sausage",
+   "group": "food",
+   "name": {
+    "en": "Meat and sausage",
+    "ir": "Et jana kolbasa",
+    "ru": "Мясо и колбаса"
+   },
+   "unit": "kg",
+   "qty": 1,
+   "count": "half",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "uzside",
+       "air-far"
+      ]
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §5.1",
+     "note": {
+      "en": "No meat from Uzbekistan or on flights from outside the region (foot-and-mouth disease restrictions).",
+      "ir": "Özbekstandan je aymaktan tıshkarkı reysterden et bolboyt (ooz-tuyak oruusu boyuncha chekteöölör).",
+      "ru": "Мясо из Узбекистана и рейсами из-за пределов региона запрещено (ограничения по ящуру)."
+     }
+    },
+    {
+     "when": {
+      "ask": {
+       "packed": false
+      }
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §5.2",
+     "note": {
+      "en": "Only in the maker's sealed packaging.",
+      "ir": "Öndürüüchünün jabık tañgagında gana.",
+      "ru": "Только в запечатанной упаковке производителя."
+     }
+    },
+    {
+     "when": {
+      "over": 1
+     },
+     "out": "permit",
+     "form": "1-VET",
+     "window": 4,
+     "ref": "64-o/2016 §5.3",
+     "note": {
+      "en": "Over 1 kg per person needs a veterinary certificate (Form 1-VET).",
+      "ir": "Bir kishige 1 kgdan ashıgı üchün veterinardık kübölük kerek (1-VET).",
+      "ru": "Свыше 1 кг на человека нужно ветеринарное свидетельство (форма 1-VET)."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §5.3",
+     "note": {
+      "en": "Within 1 kg per person, factory-packed. Children count as half a person.",
+      "ir": "Bir kishige 1 kgga cheyin, zavoddo tañgaktalgan. Balalar jarım kishi.",
+      "ru": "До 1 кг на человека, в заводской упаковке. Дети считаются за половину человека."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "packed",
+     "q": {
+      "en": "Is it in the maker's sealed packaging?",
+      "ir": "Öndürüüchünün jabık tañgagındabı?",
+      "ru": "В запечатанной упаковке производителя?"
+     },
+     "yes": {
+      "en": "It is in the maker's sealed packaging.",
+      "ir": "Öndürüüchünün jabık tañgagında.",
+      "ru": "В запечатанной упаковке производителя."
+     },
+     "no": {
+      "en": "It was cut at the bazaar and wrapped in newspaper.",
+      "ir": "Bazarda kesilip, gazetaga oralgan.",
+      "ru": "Нарезано на базаре и завёрнуто в газету."
+     },
+     "def": true
+    }
+   ],
+   "quiz": [
+    0.5,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "samsa",
+   "group": "food",
+   "name": {
+    "en": "Samsa with meat filling",
+    "ir": "Et salıngan samsa",
+    "ru": "Самса с мясом"
+   },
+   "unit": "pcs",
+   "qty": 4,
+   "count": "half",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "uzside",
+       "air-far"
+      ]
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §5.1",
+     "note": {
+      "en": "Meat filling counts as meat: none from Uzbekistan or on flights from outside the region. Samsa with pumpkin is fresh plant produce and is not allowed from Uzbekistan either.",
+      "ir": "Et salınganı et bolup eseptelet: Özbekstandan je aymaktan tıshkarkı reysterden bolboyt. Ashkabak salıngan samsa jañı ösümdük azık, al da Özbekstandan bolboyt.",
+      "ru": "Мясная начинка считается мясом: не из Узбекистана и не рейсами из-за пределов региона. Самса с тыквой — свежая растительная продукция, из Узбекистана её тоже нельзя."
+     }
+    },
+    {
+     "when": {
+      "over": 10
+     },
+     "out": "declare",
+     "window": 4,
+     "ref": "64-o/2016 §5.4",
+     "note": {
+      "en": "Over 10 pieces per person counts as catering and is declared at Window 4.",
+      "ir": "Bir kishige 10 danadan ashıgı tamaktanuu bolup eseptelip, 4-terezede deklaratsiyalanat.",
+      "ru": "Более 10 штук на человека считается общественным питанием и декларируется в окне 4."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "64-o/2016 §5.4",
+     "note": {
+      "en": "Up to 10 pieces per person, for the journey. Children count as half a person.",
+      "ir": "Bir kishige 10 danaga cheyin, jol üchün. Balalar jarım kishi.",
+      "ru": "До 10 штук на человека, в дорогу. Дети считаются за половину человека."
+     }
+    }
+   ],
+   "quiz": [
+    4,
+    12,
+    30
+   ]
+  },
+  {
+   "id": "phone",
+   "group": "elec",
+   "name": {
+    "en": "Mobile phones",
+    "ir": "Mobildik telefondor",
+    "ru": "Мобильные телефоны"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "full",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 3
+     },
+     "out": "forbidden",
+     "ref": "29-o/2019 §3.1",
+     "note": {
+      "en": "More than 3 phones per person is a commercial quantity.",
+      "ir": "Bir kishige 3tön ashık telefon soodalık sanı.",
+      "ru": "Более 3 телефонов на человека — коммерческая партия."
+     }
+    },
+    {
+     "when": {
+      "over": 2
+     },
+     "out": "duty",
+     "duty": {
+      "usd": {
+       "$period": {
+        "2026": 30,
+        "2027": 35
+       }
+      }
+     },
+     "form": "IMEI",
+     "ref": "29-o/2019 §3.2",
+     "note": {
+      "en": "The third phone per person pays duty at a reference value, and both the second and the third need IMEI registration on e-Irad within 10 days or they will be cut off.",
+      "ir": "Bir kishige üchünchü telefon belgilengen nark boyuncha bajı töleyt, ekinchisi menen üchünchüsü e-Iradda 10 kündün ichinde IMEI kattoodon ötüshü kerek, antpese öchürülöt.",
+      "ru": "Третий телефон на человека облагается пошлиной по справочной стоимости, а второй и третий нужно зарегистрировать по IMEI на e-Irad в течение 10 дней, иначе их отключат."
+     }
+    },
+    {
+     "when": {
+      "over": 1
+     },
+     "out": "declare",
+     "form": "IMEI",
+     "ref": "29-o/2019 §2.1",
+     "note": {
+      "en": "One phone per person is duty-free. The second is declared and its IMEI registered on e-Irad within 10 days. A child's phone is the child's: children count as whole persons.",
+      "ir": "Bir kishige bir telefon bajısız. Ekinchisi deklaratsiyalanıp, IMEIsi e-Iradda 10 kündün ichinde kattalat. Balanın telefonu balanıkı: balalar toluk kishi.",
+      "ru": "Один телефон на человека — без пошлины. Второй декларируется, его IMEI регистрируется на e-Irad в течение 10 дней. Телефон ребёнка — это телефон ребёнка: дети считаются за целого человека."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "29-o/2019 §2.1",
+     "note": {
+      "en": "One phone per person, duty-free.",
+      "ir": "Bir kishige bir telefon, bajısız.",
+      "ru": "Один телефон на человека, без пошлины."
+     }
+    }
+   ],
+   "quiz": [
+    1,
+    2,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "laptop",
+   "group": "elec",
+   "name": {
+    "en": "Laptops and tablets",
+    "ir": "Noutbuktar jana planshetter",
+    "ru": "Ноутбуки и планшеты"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "adult",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "ask": {
+       "boxed": true
+      }
+     },
+     "out": "duty",
+     "duty": {
+      "usd": {
+       "$period": {
+        "2026": 60,
+        "2027": 72
+       }
+      }
+     },
+     "free": 0,
+     "ref": "12-o/2011 §3.4",
+     "note": {
+      "en": "Goods still in their retail box are not for personal use. Duty is charged on every boxed laptop at the reference value of USD 600.",
+      "ir": "Dükön kutusundagı buyum jeke paydalanuu üchün emes. Kutudagı ar bir noutbukka 600 AKSh dolları belgilengen nark boyuncha bajı alınat.",
+      "ru": "Товары в магазинной коробке не считаются личными. Пошлина взимается с каждого ноутбука в коробке по справочной стоимости 600 долларов США."
+     }
+    },
+    {
+     "when": {
+      "over": 1
+     },
+     "out": "declare",
+     "ref": "12-o/2011 §3.3",
+     "note": {
+      "en": "More than one per adult: declare. Children's tablets count to the accompanying adult.",
+      "ir": "Bir chong kishige birden ashsa: deklaratsiyalañız. Balanın planshetı koshtoogon chong kishige eseptelet.",
+      "ru": "Больше одного на взрослого: задекларируйте. Планшеты детей учитываются за сопровождающим взрослым."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "12-o/2011 §3.3",
+     "note": {
+      "en": "One per adult, out of the box, for personal use.",
+      "ir": "Bir chong kishige bir, kutudan chıgarılgan, jeke paydalanuu üchün.",
+      "ru": "Один на взрослого, без коробки, для личного пользования."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "boxed",
+     "q": {
+      "en": "Is it still in its retail box?",
+      "ir": "Ali dükön kutusundabı?",
+      "ru": "Он ещё в магазинной коробке?"
+     },
+     "yes": {
+      "en": "It is still in its retail box, with the film on.",
+      "ir": "Ali dükön kutusunda, plyonkası menen.",
+      "ru": "Он ещё в коробке, с плёнкой."
+     },
+     "no": {
+      "en": "It is out of the box and has been used.",
+      "ir": "Kutudan chıgarılgan, koldonulgan.",
+      "ru": "Он без коробки и уже был в употреблении."
+     },
+     "def": false
+    }
+   ],
+   "quiz": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "drone",
+   "group": "elec",
+   "name": {
+    "en": "Drones (of any size, including toys)",
+    "ir": "Dronder (ar kanday ölchömdögü, oyunchuktar menen)",
+    "ru": "Дроны (любого размера, включая игрушечные)"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "ask": {
+       "permit": false
+      }
+     },
+     "out": "forbidden",
+     "ref": "52-o/2018 §1.2",
+     "note": {
+      "en": "Forbidden without a Gendarmerie permit under Order 52-o. Without one the drone is held at Window 6 until you leave.",
+      "ir": "52-o buyrugu boyuncha jandarmeriyanın uruksatısız tıyuu salıngan. Uruksat jok bolso, dron siz ketkenge cheyin 6-terezede karmalat.",
+      "ru": "Без разрешения жандармерии по приказу № 52-о запрещено. Без него дрон хранится в окне 6 до вашего выезда."
+     }
+    },
+    {
+     "out": "permit",
+     "form": "RG-52",
+     "ref": "52-o/2018 §2.1",
+     "note": {
+      "en": "With the Gendarmerie permit: show it at Window 5. The permit names the drone's serial number; a different drone is not covered.",
+      "ir": "Jandarmeriyanın uruksatı menen: 5-terezede körsötüñüz. Uruksatta drondun seriyalık nomeri jazılgan; bashka dron kirbeyt.",
+      "ru": "С разрешением жандармерии: предъявите его в окне 5. В разрешении указан серийный номер дрона; другой дрон оно не покрывает."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "permit",
+     "q": {
+      "en": "Do you have a Gendarmerie permit for it?",
+      "ir": "Jandarmeriyanın uruksatı barbı?",
+      "ru": "Есть ли разрешение жандармерии?"
+     },
+     "yes": {
+      "en": "You have a Gendarmerie permit for it.",
+      "ir": "Jandarmeriyanın uruksatı bar.",
+      "ru": "Разрешение жандармерии есть."
+     },
+     "no": {
+      "en": "You have no permit; it is a toy.",
+      "ir": "Uruksat jok; al oyunchuk.",
+      "ru": "Разрешения нет; это игрушка."
+     },
+     "def": false
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  },
+  {
+   "id": "satphone",
+   "group": "elec",
+   "name": {
+    "en": "Satellite phones",
+    "ir": "Sputniktik telefondor",
+    "ru": "Спутниковые телефоны"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "ask": {
+       "permit": false
+      }
+     },
+     "out": "forbidden",
+     "ref": "52-o/2018 §4.1",
+     "note": {
+      "en": "Forbidden without a Gendarmerie permit under Order 52-o.",
+      "ir": "52-o buyrugu boyuncha jandarmeriyanın uruksatısız tıyuu salıngan.",
+      "ru": "Без разрешения жандармерии по приказу № 52-о запрещено."
+     }
+    },
+    {
+     "out": "permit",
+     "form": "RG-52",
+     "ref": "52-o/2018 §4.2",
+     "note": {
+      "en": "With the Gendarmerie permit: show it at Window 5 and keep the device switched off inside the 12 km zone.",
+      "ir": "Jandarmeriyanın uruksatı menen: 5-terezede körsötüñüz, 12 km zonada tüzülüshtü öchürüp jürüñüz.",
+      "ru": "С разрешением жандармерии: предъявите в окне 5 и держите аппарат выключенным в 12-километровой зоне."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "permit",
+     "q": {
+      "en": "Do you have a Gendarmerie permit for it?",
+      "ir": "Jandarmeriyanın uruksatı barbı?",
+      "ru": "Есть ли разрешение жандармерии?"
+     },
+     "yes": {
+      "en": "You have a Gendarmerie permit for it.",
+      "ir": "Jandarmeriyanın uruksatı bar.",
+      "ru": "Разрешение жандармерии есть."
+     },
+     "no": {
+      "en": "You have no permit.",
+      "ir": "Uruksat jok.",
+      "ru": "Разрешения нет."
+     },
+     "def": false
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  },
+  {
+   "id": "videocam",
+   "group": "elec",
+   "name": {
+    "en": "Professional video cameras",
+    "ir": "Professionaldık videokameralar",
+    "ru": "Профессиональные видеокамеры"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "out": "permit",
+     "ref": "12-o/2011 §3.7",
+     "note": {
+      "en": "A professional camera needs accreditation from the Department of Public Information, shown at Window 5. A phone that films is not a camera.",
+      "ir": "Professionaldık kameraga Koomduk maalımat departamentinin akkreditatsiyası kerek, 5-terezede körsötülöt. Video tartkan telefon kamera emes.",
+      "ru": "Для профессиональной камеры нужна аккредитация Департамента общественной информации, её предъявляют в окне 5. Телефон, который снимает видео, камерой не является."
+     }
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  },
+  {
+   "id": "usd",
+   "group": "money",
+   "name": {
+    "en": "Foreign cash (dollars and other currencies, counted in dollars)",
+    "ir": "Chet el nak akchası (dollar jana bashka valyutalar, dollar menen eseptelet)",
+    "ru": "Иностранная наличная валюта (доллары и другие валюты, в пересчёте на доллары)"
+   },
+   "unit": "usd",
+   "qty": 3000,
+   "count": "adult",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 30000
+     },
+     "out": "permit",
+     "form": "BOI",
+     "window": 2,
+     "ref": "88-o/2021 §4",
+     "note": {
+      "en": "Over USD 30,000 per adult also needs a Bank of Irad certificate of the origin of the funds.",
+      "ir": "Bir chong kishige 30 000 AKSh dollarınan ashsa, Irad bankının akchanın kelip chıgıshı jönündö kübölügü da kerek.",
+      "ru": "Свыше 30 000 долларов США на взрослого нужна также справка Банка Ирада о происхождении средств."
+     }
+    },
+    {
+     "when": {
+      "over": {
+       "$stay": {
+        "short": 5000,
+        "long": 10000
+       }
+      }
+     },
+     "out": "declare",
+     "window": 2,
+     "ref": "88-o/2021 §2.1",
+     "note": {
+      "en": "Declare at Window 2 over USD 10,000 per adult, or over USD 5,000 per adult if you were abroad less than 72 hours. Cash carried by a child is counted to the accompanying adult.",
+      "ir": "Bir chong kishige 10 000 AKSh dollarınan, chet elde 72 saattan az bolsoñuz 5 000 dollardan ashsa, 2-terezede deklaratsiyalañız. Balanın akchası koshtoogon chong kishige eseptelet.",
+      "ru": "Декларируйте в окне 2 свыше 10 000 долларов США на взрослого, или свыше 5 000, если вы были за границей менее 72 часов. Наличные у ребёнка учитываются за сопровождающим взрослым."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "88-o/2021 §2.1",
+     "note": {
+      "en": "Under the declaration threshold.",
+      "ir": "Deklaratsiya cheginen tömön.",
+      "ru": "Ниже порога декларирования."
+     }
+    }
+   ],
+   "quiz": [
+    2000,
+    7000,
+    12000,
+    40000
+   ]
+  },
+  {
+   "id": "som",
+   "group": "money",
+   "name": {
+    "en": "Som in cash",
+    "ir": "Nak som",
+    "ru": "Сомы наличными"
+   },
+   "unit": "som",
+   "qty": 10000,
+   "count": "adult",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 100000
+     },
+     "out": "permit",
+     "form": "BOI",
+     "window": 2,
+     "ref": "88-o/2021 §3.3",
+     "note": {
+      "en": "Over 100,000 som per adult needs a Bank of Irad certificate of the origin of the funds.",
+      "ir": "Bir chong kishige 100 000 somdon ashsa, Irad bankının kübölügü kerek.",
+      "ru": "Свыше 100 000 сомов на взрослого нужна справка Банка Ирада о происхождении средств."
+     }
+    },
+    {
+     "when": {
+      "over": {
+       "$period": {
+        "2026": 25000,
+        "2027": 20000
+       }
+      }
+     },
+     "out": "declare",
+     "window": 2,
+     "ref": "88-o/2021 §3.1",
+     "note": {
+      "en": "Som has its own, lower limit: declare at Window 2 over 25,000 som per adult (20,000 from 1 January 2027), whatever the dollar limit.",
+      "ir": "Somdun özünchö, tömönküraak chegi bar: bir chong kishige 25 000 somdon ashsa (2027-jıldın 1-yanvarınan 20 000) dollar chegine karabay 2-terezede deklaratsiyalañız.",
+      "ru": "Для сомов свой, более низкий порог: декларируйте в окне 2 свыше 25 000 сомов на взрослого (с 1 января 2027 года — 20 000), независимо от долларового порога."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "88-o/2021 §3.1",
+     "note": {
+      "en": "Under the som threshold.",
+      "ir": "Som cheginen tömön.",
+      "ru": "Ниже порога для сомов."
+     }
+    }
+   ],
+   "quiz": [
+    10000,
+    22000,
+    30000
+   ]
+  },
+  {
+   "id": "tulpar",
+   "group": "money",
+   "name": {
+    "en": "Tulparcoin hardware wallet",
+    "ir": "Tulparcoin apparattık kapchıgı",
+    "ru": "Аппаратный кошелёк Tulparcoin"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "out": "refer",
+     "window": 6,
+     "ref": "97-o/2026 §1",
+     "note": {
+      "en": "Nobody can answer this yet. Order 97-o suspends a decision until the Ministry of Economy gives its opinion on whether Tulparcoin is cash, a monetary instrument or goods. Until then the device is held at Window 6 against a receipt, or you may take it back across the border.",
+      "ir": "Buga ali ech kim joop bere albayt. 97-o buyrugu Ekonomika ministrligi Tulparcoin nak akchabı, akchalay kuralbı je buyumbu degen pikirin bergenge cheyin chechimdi toktotot. Ga cheyin tüzülüsh kübölük menen 6-terezede karmalat, je anı chek aradan kayra alıp ketseñiz bolot.",
+      "ru": "Ответить на это пока не может никто. Приказ № 97-о откладывает решение до заключения Министерства экономики о том, является ли Tulparcoin наличными, денежным инструментом или товаром. До тех пор устройство хранится в окне 6 под квитанцию, либо его можно увезти обратно через границу."
+     }
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  },
+  {
+   "id": "horse",
+   "group": "horse",
+   "name": {
+    "en": "Horses",
+    "ir": "Jılkılar",
+    "ru": "Лошади"
+   },
+   "unit": "head",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "air"
+      ]
+     },
+     "out": "forbidden",
+     "form": "TERM",
+     "ref": "41-o/2023 §2.5",
+     "note": {
+      "en": "A horse is not baggage. Horses arriving by air travel as cargo through the Talas Airport Logistics Hub and are cleared at the Talas Customs Clearance Terminal, not in the arrivals hall.",
+      "ir": "Jılkı jük-bagaj emes. Aba jolu menen kelgen jılkılar Talas aeroportunun logistikalık borboru arkıluu jük katarı kelip, kelüü zalında emes, Talas bajı tarizdöö terminalında tarizdelet.",
+      "ru": "Лошадь — не багаж. Лошади, прибывающие по воздуху, перевозятся как груз через Таласский аэропортовый логистический центр и оформляются на Таласском терминале таможенного оформления, а не в зале прилёта."
+     }
+    },
+    {
+     "when": {
+      "ask": {
+       "akyel": true
+      }
+     },
+     "out": "permit",
+     "form": "2-VET",
+     "window": 4,
+     "ref": "41-o/2023 §3.2",
+     "note": {
+      "en": "An Akyel also needs its entry in the National Akyel Studbook and a brand check by the State Stud Farm of Talas. A printout from tukum.net is accepted as supporting evidence only, not as a studbook entry.",
+      "ir": "Akyel üchün Uluttuk Akyel tukum kitebindegi jazuusu jana Talas mamlekettik jılkı zavodunun tamga teksherüüsü da kerek. tukum.net saytınan basılgan kagaz koshumcha dalil gana bolup, tukum kitebindegi jazuu katarı kabıl alınbayt.",
+      "ru": "Для акъела нужна также запись в Национальной племенной книге акъелов и проверка тавра Таласским государственным конным заводом. Распечатка с tukum.net принимается только как дополнительное доказательство, а не как запись в племенной книге."
+     }
+    },
+    {
+     "out": "permit",
+     "form": "2-VET",
+     "window": 4,
+     "ref": "41-o/2023 §2.1",
+     "note": {
+      "en": "Every horse needs a veterinary certificate for live animals (Form 2-VET) and the fees at the crossing. A horse is not a vehicle, so riders cannot pool.",
+      "ir": "Ar bir jılkıga tirüü janıbarlar üchün veterinardık kübölük (2-VET) jana ötköldögü alımdar kerek. Jılkı unaa emes, oshonduktan atchandar biriktire albayt.",
+      "ru": "На каждую лошадь нужно ветеринарное свидетельство на живых животных (форма 2-VET) и сборы на переходе. Лошадь — не транспортное средство, поэтому всадники объединять нормы не могут."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "akyel",
+     "q": {
+      "en": "Is it an Akyel?",
+      "ir": "Al Akyelbi?",
+      "ru": "Это акъел?"
+     },
+     "yes": {
+      "en": "It is an Akyel mare.",
+      "ir": "Al Akyel bee.",
+      "ru": "Это кобыла акъел."
+     },
+     "no": {
+      "en": "It is a working horse of no particular breed.",
+      "ir": "Al ayırım tukumu jok jumushchu jılkı.",
+      "ru": "Это рабочая лошадь без породы."
+     },
+     "def": false
+    }
+   ],
+   "quiz": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "saddle",
+   "group": "horse",
+   "name": {
+    "en": "Saddles made since 1976",
+    "ir": "1976-jıldan beri jasalgan eerler",
+    "ru": "Сёдла, изготовленные с 1976 года"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "adult",
+   "pool": false,
+   "clauses": [
+    {
+     "when": {
+      "over": 1
+     },
+     "out": "duty",
+     "duty": {
+      "usd": {
+       "$period": {
+        "2026": 15,
+        "2027": 18
+       }
+      }
+     },
+     "ref": "41-o/2023 §5.1",
+     "note": {
+      "en": "Over one saddle per adult pays duty at a reference value. A saddle is not a horse and needs no veterinary certificate unless it has hair or hide left on it.",
+      "ir": "Bir chong kishige birden ashık eer belgilengen nark boyuncha bajı töleyt. Eer jılkı emes, üstündö jün je teri kalbasa veterinardık kübölük kerek emes.",
+      "ru": "Седло сверх одного на взрослого облагается пошлиной по справочной стоимости. Седло — не лошадь, ветеринарное свидетельство не нужно, если на нём не осталось шерсти или шкуры."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "41-o/2023 §5.1",
+     "note": {
+      "en": "One saddle per adult.",
+      "ir": "Bir chong kishige bir eer.",
+      "ru": "Одно седло на взрослого."
+     }
+    }
+   ],
+   "quiz": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "oldsaddle",
+   "group": "horse",
+   "name": {
+    "en": "Saddles made before 1976",
+    "ir": "1976-jılga cheyin jasalgan eerler",
+    "ru": "Сёдла, изготовленные до 1976 года"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "out": "permit",
+     "form": "HPS",
+     "window": 5,
+     "ref": "41-o/2023 §5.3",
+     "note": {
+      "en": "A saddle over 50 years old is cultural property. To bring it in you need the Heritage Protection Service's export check, because without a record of its import it can never be taken out again. A saddle from across the line is presumed old until shown otherwise.",
+      "ir": "50 jıldan ashık eer madaniy baylık. Anı alıp kirüü üchün Muras korgoo kızmatının eksport teksherüüsü kerek, antkeni importu jazılbasa, anı kiyin ech kachan chıgarıp ketüügö bolboyt. Liniyanın arı jagınan kelgen eer teskerisi körsötülmöyünchö eski dep eseptelet.",
+      "ru": "Седло старше 50 лет — культурная ценность. Чтобы его ввезти, нужна экспортная проверка Службы охраны наследия, потому что без записи о ввозе его никогда не удастся вывезти. Седло с той стороны линии считается старым, пока не доказано обратное."
+     }
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  },
+  {
+   "id": "books",
+   "group": "faith",
+   "name": {
+    "en": "Copies of one book (any book, holy books included)",
+    "ir": "Bir kiteptin nuskaları (ar kanday kitep, ıyık kitepter menen)",
+    "ru": "Экземпляры одной книги (любой, включая священные)"
+   },
+   "unit": "copies",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 3
+     },
+     "out": "permit",
+     "form": "DPI",
+     "ref": "15-o/2025 §2.1",
+     "note": {
+      "en": "More than three copies of any one title counts as distribution, whatever the book: it must be registered as printed matter with the Department of Public Information (Regulation No. 12 of 2009). Not pooled.",
+      "ir": "Bir kiteptin üchtön ashık nuskası, kitep kanday bolboson, taratuu bolup eseptelet: Koomduk maalımat departamentinde basma buyum katarı kattalıshı kerek (2009-jıldagı № 12 jobo). Biriktirilbeyt.",
+      "ru": "Более трёх экземпляров одного названия считается распространением, какой бы ни была книга: их нужно зарегистрировать как печатную продукцию в Департаменте общественной информации (Положение № 12 от 2009 года). Не объединяется."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "15-o/2025 §1.2",
+     "note": {
+      "en": "Up to three copies of one title, for personal use.",
+      "ir": "Bir kiteptin üch nuskasına cheyin, jeke paydalanuu üchün.",
+      "ru": "До трёх экземпляров одного названия, для личного пользования."
+     }
+    }
+   ],
+   "quiz": [
+    1,
+    3,
+    4,
+    20
+   ]
+  },
+  {
+   "id": "worship",
+   "group": "faith",
+   "name": {
+    "en": "Articles of worship (icons, crosses, prayer beads, prayer mats)",
+    "ir": "Dinıy buyumdar (ikonalar, krestter, tespeler, jaynamazdar)",
+    "ru": "Предметы культа (иконы, кресты, чётки, молитвенные коврики)"
+   },
+   "unit": "pcs",
+   "qty": 2,
+   "count": "full",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "ask": {
+       "old": true
+      }
+     },
+     "out": "permit",
+     "form": "HPS",
+     "window": 5,
+     "ref": "15-o/2025 §3.4",
+     "note": {
+      "en": "An icon or other article made before 1976 is cultural property and needs the Heritage Protection Service's export check.",
+      "ir": "1976-jılga cheyin jasalgan ikona je bashka buyum madaniy baylık, Muras korgoo kızmatının eksport teksherüüsü kerek.",
+      "ru": "Икона или иной предмет, изготовленный до 1976 года, — культурная ценность, нужна экспортная проверка Службы охраны наследия."
+     }
+    },
+    {
+     "when": {
+      "over": 10
+     },
+     "out": "declare",
+     "ref": "15-o/2025 §3.2",
+     "note": {
+      "en": "More than 10 per person may be for sale and is declared.",
+      "ir": "Bir kishige 10don ashıgı satuu üchün bolushu mümkün, deklaratsiyalanat.",
+      "ru": "Более 10 на человека могут быть для продажи и декларируются."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "15-o/2025 §3.1",
+     "note": {
+      "en": "Allowed for personal use, up to 10 per person. Children count as whole persons.",
+      "ir": "Jeke paydalanuu üchün, bir kishige 10ga cheyin uruksat. Balalar toluk kishi.",
+      "ru": "Разрешено для личного пользования, до 10 на человека. Дети считаются за целого человека."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "old",
+     "q": {
+      "en": "Was any of them made before 1976?",
+      "ir": "Alardın biri 1976-jılga cheyin jasalganbı?",
+      "ru": "Изготовлен ли какой-либо из них до 1976 года?"
+     },
+     "yes": {
+      "en": "One is an old icon from a grandmother's house.",
+      "ir": "Biri chong enenin üyündögü eski ikona.",
+      "ru": "Одна из них — старая икона из бабушкиного дома."
+     },
+     "no": {
+      "en": "They are all new.",
+      "ir": "Bardıgı jañı.",
+      "ru": "Все новые."
+     },
+     "def": false
+    }
+   ],
+   "quiz": [
+    2,
+    12
+   ]
+  },
+  {
+   "id": "medA",
+   "group": "med",
+   "name": {
+    "en": "List A medicines (common pain and fever tablets, stomach remedies, cough syrup, plasters)",
+    "ir": "A tizmesindegi dary-darmekter (kadimki ooru jana ısıtma tabletkaları, ashkazan darıları, jötöl siropu, plastırlar)",
+    "ru": "Лекарства списка А (обычные таблетки от боли и жара, средства для желудка, сироп от кашля, пластыри)"
+   },
+   "unit": "packs",
+   "qty": 3,
+   "count": "full",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 5
+     },
+     "out": "declare",
+     "ref": "70-o/2024 §2.2",
+     "note": {
+      "en": "More than 5 packs per person: declare.",
+      "ir": "Bir kishige 5 kutudan ashsa: deklaratsiyalañız.",
+      "ru": "Более 5 упаковок на человека: задекларируйте."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "70-o/2024 §2.1",
+     "note": {
+      "en": "Free up to 5 packs per person. Which medicine is on which list is in the annexes to Order 70-o, which are not published online and may be read at Window 7.",
+      "ir": "Bir kishige 5 kutuga cheyin erkin. Kaysı dary kaysı tizmede ekeni 70-o buyruktun tirkemelerinde, alar onlayn jarıyalanbagan, 7-terezede okusa bolot.",
+      "ru": "Свободно до 5 упаковок на человека. Какое лекарство в каком списке, указано в приложениях к приказу № 70-о, которые не опубликованы в интернете; с ними можно ознакомиться в окне 7."
+     }
+    }
+   ],
+   "quiz": [
+    3,
+    8
+   ]
+  },
+  {
+   "id": "medB",
+   "group": "med",
+   "name": {
+    "en": "List B medicines (antibiotics, strong painkillers, sleeping tablets, heart and blood-pressure medicines)",
+    "ir": "B tizmesindegi dary-darmekter (antibiotikter, küchtüü ooru basuuchular, uyku darıları, jürök jana kan basım darıları)",
+    "ru": "Лекарства списка Б (антибиотики, сильные обезболивающие, снотворные, сердечные и от давления)"
+   },
+   "unit": "packs",
+   "qty": 2,
+   "count": "full",
+   "pool": false,
+   "clauses": [
+    {
+     "when": {
+      "ask": {
+       "rx": false
+      }
+     },
+     "out": "forbidden",
+     "ref": "70-o/2024 §4.2",
+     "note": {
+      "en": "Only with the prescription translated into Iradi or Russian, with a certified translator's stamp. A prescription in English is not translated, however clear it is. Without it the medicine is held at Window 6 until the translation is brought.",
+      "ir": "Iradcha je oruscha kotorulup, kübölöndürülgön kotormochunun möörü basılgan retsept menen gana. Anglische retsept kanchalık tüshünüktüü bolboson da kotorulgan emes. Antpese dary kotormo alıp kelingenge cheyin 6-terezede karmalat.",
+      "ru": "Только с рецептом, переведённым на ирадский или русский язык, со штампом заверенного переводчика. Рецепт на английском не является переводом, каким бы понятным он ни был. Без этого лекарство хранится в окне 6, пока не принесут перевод."
+     }
+    },
+    {
+     "when": {
+      "over": 10
+     },
+     "out": "permit",
+     "form": "MH",
+     "ref": "70-o/2024 §4.4",
+     "note": {
+      "en": "More than 10 packs per person needs a Ministry of Health import permit, prescription or not.",
+      "ir": "Bir kishige 10 kutudan ashıgı üchün, retsept bolsun-bolboson, Salamattıktı saktoo ministrliginin import uruksatı kerek.",
+      "ru": "Более 10 упаковок на человека — нужно разрешение Министерства здравоохранения на ввоз, с рецептом или без."
+     }
+    },
+    {
+     "out": "declare",
+     "ref": "70-o/2024 §4.3",
+     "note": {
+      "en": "With the translated prescription: declare at Window 1, up to 10 packs per person.",
+      "ir": "Kotorulgan retsept menen: 1-terezede deklaratsiyalañız, bir kishige 10 kutuga cheyin.",
+      "ru": "С переведённым рецептом: задекларируйте в окне 1, до 10 упаковок на человека."
+     }
+    }
+   ],
+   "asks": [
+    {
+     "id": "rx",
+     "q": {
+      "en": "Do you have the prescription translated into Iradi or Russian, with a translator's stamp?",
+      "ir": "Iradcha je oruscha kotorulgan, kotormochunun möörü basılgan retseptiñiz barbı?",
+      "ru": "Есть ли рецепт, переведённый на ирадский или русский, со штампом переводчика?"
+     },
+     "yes": {
+      "en": "You have the prescription, translated into Russian and stamped.",
+      "ir": "Retseptiñiz bar, oruschaga kotorulup, möör basılgan.",
+      "ru": "Рецепт есть, переведён на русский и заверен."
+     },
+     "no": {
+      "en": "You have the prescription in English.",
+      "ir": "Retseptiñiz anglische.",
+      "ru": "Рецепт на английском."
+     },
+     "def": false
+    }
+   ],
+   "quiz": [
+    2,
+    4,
+    12
+   ]
+  },
+  {
+   "id": "medC",
+   "group": "med",
+   "name": {
+    "en": "List C medicines (strong opioid painkillers, some anxiety and attention-disorder medicines, anything with cannabis)",
+    "ir": "C tizmesindegi dary-darmekter (küchtüü opioiddik ooru basuuchular, ayrım tınchsızdanuu jana köñül buruu darıları, kanabis bar ar nerse)",
+    "ru": "Лекарства списка В (сильные опиоидные обезболивающие, некоторые средства от тревоги и расстройств внимания, всё с каннабисом)"
+   },
+   "unit": "packs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "out": "forbidden",
+     "ref": "70-o/2024 §5.1",
+     "note": {
+      "en": "List C is forbidden to travellers, with a prescription or without. Only a medical institution may bring it in, under a Ministry of Health licence; anyone with a medical need writes to the Ministry of Health before travelling.",
+      "ir": "C tizmesi joloochularga retsept menen da, retseptsiz da tıyuu salıngan. Anı Salamattıktı saktoo ministrliginin litsenziyası menen medicinalık mekeme gana alıp kele alat; medicinalık muktajdıgı bar adam saparga chıgaardan murun ministrlikke jazat.",
+      "ru": "Список В пассажирам запрещён, с рецептом или без. Ввозить его может только медицинское учреждение по лицензии Министерства здравоохранения; при медицинской необходимости напишите в министерство до поездки."
+     }
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  },
+  {
+   "id": "goods",
+   "group": "other",
+   "name": {
+    "en": "Other goods: gifts, clothes, souvenirs (value in dollars)",
+    "ir": "Bashka buyumdar: beleker, kiyim, estelikter (narkı dollar menen)",
+    "ru": "Прочие товары: подарки, одежда, сувениры (стоимость в долларах)"
+   },
+   "unit": "usd",
+   "qty": 400,
+   "count": "full",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "atr"
+      ],
+      "over": 1000
+     },
+     "out": "declare",
+     "ref": "12-o/2011 §7.2",
+     "note": {
+      "en": "From across the line nothing is charged, but goods worth over USD 1,000 per person are declared within three working days, or they are liable to seizure in the Zone.",
+      "ir": "Liniyanın arı jagınan ech nerse alınbayt, birok bir kishige 1 000 AKSh dollarınan ashkan buyumdar üch jumush kündün ichinde deklaratsiyalanat, antpese Zonada alınıp koyulushu mümkün.",
+      "ru": "С той стороны линии ничего не взимается, но товары дороже 1 000 долларов США на человека декларируются в течение трёх рабочих дней, иначе они могут быть изъяты в Зоне."
+     }
+    },
+    {
+     "when": {
+      "route": [
+       "atr"
+      ]
+     },
+     "out": "ok",
+     "ref": "12-o/2011 §7.2",
+     "note": {
+      "en": "Within USD 1,000 per person from across the line.",
+      "ir": "Liniyanın arı jagınan bir kishige 1 000 dollarga cheyin.",
+      "ru": "До 1 000 долларов США на человека с той стороны линии."
+     }
+    },
+    {
+     "when": {
+      "over": 5000
+     },
+     "out": "permit",
+     "form": "TERM",
+     "ref": "12-o/2011 §3.9",
+     "note": {
+      "en": "Over USD 5,000 per person is not personal and is cleared as a commercial import through the Terminal.",
+      "ir": "Bir kishige 5 000 dollardan ashıgı jeke emes, Terminal arkıluu soodalık import katarı tarizdelet.",
+      "ru": "Свыше 5 000 долларов США на человека — не личные вещи, оформляются как коммерческий ввоз через Терминал."
+     }
+    },
+    {
+     "when": {
+      "over": {
+       "$period": {
+        "2026": {
+         "$route": {
+          "air-far": {
+           "$stay": {
+            "short": 500,
+            "long": 1000
+           }
+          },
+          "air-kz": {
+           "$stay": {
+            "short": 300,
+            "long": 500
+           }
+          },
+          "air-uz": {
+           "$stay": {
+            "short": 300,
+            "long": 500
+           }
+          },
+          "kz": {
+           "$stay": {
+            "short": 150,
+            "long": 500
+           }
+          },
+          "uz": {
+           "$stay": {
+            "short": 100,
+            "long": 300
+           }
+          },
+          "kg": {
+           "$stay": {
+            "short": 150,
+            "long": 500
+           }
+          },
+          "rail": 50,
+          "atr": 1000,
+          "*": 500
+         }
+        },
+        "2027": {
+         "$route": {
+          "air-far": {
+           "$stay": {
+            "short": 500,
+            "long": 800
+           }
+          },
+          "air-kz": {
+           "$stay": {
+            "short": 300,
+            "long": 500
+           }
+          },
+          "air-uz": {
+           "$stay": {
+            "short": 300,
+            "long": 500
+           }
+          },
+          "kz": {
+           "$stay": {
+            "short": 100,
+            "long": 500
+           }
+          },
+          "uz": {
+           "$stay": {
+            "short": 100,
+            "long": 250
+           }
+          },
+          "kg": {
+           "$stay": {
+            "short": 150,
+            "long": 500
+           }
+          },
+          "rail": 50,
+          "atr": 1000,
+          "*": 500
+         }
+        }
+       }
+      }
+     },
+     "out": "duty",
+     "duty": {
+      "pct": {
+       "$period": {
+        "2026": 10,
+        "2027": 12
+       }
+      }
+     },
+     "ref": "66-o/2024 §3",
+     "note": {
+      "en": "Duty is charged on the value over the allowance, which depends on the route and on how long you were away. Children count as whole persons; pooled in one family car.",
+      "ir": "Bajı chekten ashkan narkka alınat; chek joldon jana chet elde kancha bolgonuñuzdan köz karandı. Balalar toluk kishi; bir üy-bülölük unaada biriktirilet.",
+      "ru": "Пошлина взимается со стоимости сверх нормы, а норма зависит от маршрута и от того, сколько вы были за границей. Дети считаются за целого человека; в одной семейной машине объединяется."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "12-o/2011 §7.1",
+     "note": {
+      "en": "Within the allowance for your route and length of stay.",
+      "ir": "Joluñuz jana sapar möönötü üchün chektin ichinde.",
+      "ru": "В пределах нормы для вашего маршрута и срока поездки."
+     }
+    }
+   ],
+   "quiz": [
+    100,
+    400,
+    900,
+    2500
+   ]
+  },
+  {
+   "id": "rocks",
+   "group": "other",
+   "name": {
+    "en": "Rocks and mineral samples, souvenirs included",
+    "ir": "Tash jana mineral ülgülörü, estelikter menen",
+    "ru": "Камни и образцы минералов, включая сувениры"
+   },
+   "unit": "kg",
+   "qty": 0.2,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "over": 1
+     },
+     "out": "forbidden",
+     "ref": "9-o/2025 §1.4",
+     "note": {
+      "en": "Over 1 kg is not permitted without papers from a licensed works. Since 1 February 2025 every mineral load is weighed and sampled, and a souvenir is a mineral load.",
+      "ir": "1 kgdan ashıgı litsenziyası bar zavoddun kagazdarısız uruksat berilbeyt. 2025-jıldın 1-fevralınan beri ar bir mineraldık jük tartılıp, ülgü alınat; estelik da mineraldık jük.",
+      "ru": "Свыше 1 кг без документов лицензированного предприятия не допускается. С 1 февраля 2025 года каждый минеральный груз взвешивается и опробуется, а сувенир — тоже минеральный груз."
+     }
+    },
+    {
+     "out": "declare",
+     "ref": "9-o/2025 §1.4",
+     "note": {
+      "en": "Any amount is declared, weighed and sampled (three samples; results in three working days). The samples are not returned.",
+      "ir": "Ar kanday sanı deklaratsiyalanıp, tartılıp, ülgü alınat (üch ülgü; natıyjası üch jumush kündö). Ülgülör kaytarılbayt.",
+      "ru": "Любое количество декларируется, взвешивается и опробуется (три пробы; результат через три рабочих дня). Пробы не возвращаются."
+     }
+    }
+   ],
+   "quiz": [
+    0.2,
+    3
+   ]
+  },
+  {
+   "id": "fuel",
+   "group": "other",
+   "name": {
+    "en": "Fuel in canisters",
+    "ir": "Kanistrdegi küyüüchü may",
+    "ru": "Топливо в канистрах"
+   },
+   "unit": "l",
+   "qty": 20,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "air",
+       "rail"
+      ]
+     },
+     "out": "forbidden",
+     "ref": "12-o/2011 §6.1",
+     "note": {
+      "en": "No fuel by air or by rail.",
+      "ir": "Aba je temir jol menen küyüüchü may bolboyt.",
+      "ru": "Топливо самолётом или поездом запрещено."
+     }
+    },
+    {
+     "when": {
+      "over": 60
+     },
+     "out": "forbidden",
+     "ref": "102-o/2026 §1",
+     "note": {
+      "en": "Over 60 litres is carriage of fuel and needs a tanker in the Gendarmerie's register.",
+      "ir": "60 litrden ashıgı küyüüchü may tashuu bolup, jandarmeriyanın reestrindegi tsisterna kerek.",
+      "ru": "Свыше 60 литров — перевозка топлива, нужна цистерна из реестра жандармерии."
+     }
+    },
+    {
+     "when": {
+      "over": 20
+     },
+     "out": "duty",
+     "duty": {
+      "som": {
+       "$period": {
+        "2026": 4,
+        "2027": 5
+       }
+      }
+     },
+     "ref": "12-o/2011 §6.2",
+     "note": {
+      "en": "One canister of up to 20 litres per vehicle is free; each litre over that pays duty.",
+      "ir": "Bir unaaga 20 litrge cheyinki bir kanistr akısız; andan ashkan ar bir litr bajı töleyt.",
+      "ru": "Одна канистра до 20 литров на машину бесплатно; каждый литр сверх — пошлина."
+     }
+    },
+    {
+     "out": "ok",
+     "ref": "12-o/2011 §6.2",
+     "note": {
+      "en": "One canister of up to 20 litres per vehicle.",
+      "ir": "Bir unaaga 20 litrge cheyin bir kanistr.",
+      "ru": "Одна канистра до 20 литров на машину."
+     }
+    }
+   ],
+   "quiz": [
+    20,
+    40,
+    80
+   ]
+  },
+  {
+   "id": "rifle",
+   "group": "other",
+   "name": {
+    "en": "Hunting rifles and ammunition",
+    "ir": "Uuchuluk miltıktarı jana ok-darı",
+    "ru": "Охотничьи ружья и боеприпасы"
+   },
+   "unit": "pcs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "out": "permit",
+     "form": "MIS",
+     "ref": "12-o/2011 §5.1",
+     "note": {
+      "en": "Only with a permit from the Ministry of Internal Security, shown at Window 5. The rifle is sealed until it reaches the address on the permit.",
+      "ir": "Ichki koopsuzduk ministrliginin uruksatı menen gana, 5-terezede körsötülöt. Miltık uruksattagı darekke jetkenge cheyin plombalanat.",
+      "ru": "Только с разрешением Министерства внутренней безопасности, предъявляется в окне 5. Ружьё пломбируется до прибытия по адресу из разрешения."
+     }
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  },
+  {
+   "id": "seeds",
+   "group": "other",
+   "name": {
+    "en": "Seeds, bulbs and seedlings",
+    "ir": "Urugtar, piyazchalar jana kochottor",
+    "ru": "Семена, луковицы и саженцы"
+   },
+   "unit": "packs",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "when": {
+      "route": [
+       "uzside",
+       "air-far"
+      ]
+     },
+     "out": "forbidden",
+     "ref": "64-o/2016 §8.1",
+     "note": {
+      "en": "Not from Uzbekistan or from outside the region under any circumstances.",
+      "ir": "Özbekstandan je aymaktan tıshkarkı jerlerden ech kanday shartta bolboyt.",
+      "ru": "Из Узбекистана и из-за пределов региона — ни при каких условиях."
+     }
+    },
+    {
+     "out": "permit",
+     "form": "PQ-3",
+     "window": 4,
+     "ref": "64-o/2016 §8.2",
+     "note": {
+      "en": "Every packet needs a phytosanitary certificate (Form PQ-3), including the ones from the shop.",
+      "ir": "Ar bir paketke, düköndön alınganın da, fitosanitardık kübölük kerek (PQ-3).",
+      "ru": "На каждый пакетик нужен фитосанитарный сертификат (форма PQ-3), в том числе на магазинные."
+     }
+    }
+   ],
+   "quiz": [
+    1,
+    5
+   ]
+  },
+  {
+   "id": "pet",
+   "group": "other",
+   "name": {
+    "en": "A pet dog or cat",
+    "ir": "Üy iti je mıshıgı",
+    "ru": "Домашняя собака или кошка"
+   },
+   "unit": "head",
+   "qty": 1,
+   "count": "total",
+   "pool": true,
+   "clauses": [
+    {
+     "out": "permit",
+     "form": "PET",
+     "window": 4,
+     "ref": "64-o/2016 §9.1",
+     "note": {
+      "en": "Each animal needs the veterinary certificate (Form 2-VET) and a rabies vaccination at least 21 days old. The steps are on e-Irad.",
+      "ir": "Ar bir janıbarga veterinardık kübölük (2-VET) jana keminde 21 kün murun salıngan kuturma emi kerek. Baskıchtar e-Iradda.",
+      "ru": "На каждое животное нужно ветеринарное свидетельство (форма 2-VET) и прививка от бешенства не позднее чем за 21 день. Порядок — на e-Irad."
+     }
+    }
+   ],
+   "quiz": [
+    1
+   ]
+  }
+ ],
+ "ui": {
+  "tabCheck": {
+   "en": "Check my bag",
+   "ir": "Bashtıgımdı teksher",
+   "ru": "Проверить багаж"
+  },
+  "tabQuiz": {
+   "en": "Test yourself",
+   "ir": "Özüñüzdü sınañız",
+   "ru": "Проверьте себя"
+  },
+  "route": {
+   "en": "Where are you coming from?",
+   "ir": "Kayaktan kelip jatasız?",
+   "ru": "Откуда вы въезжаете?"
+  },
+  "date": {
+   "en": "Date of entry",
+   "ir": "Kirgen kün",
+   "ru": "Дата въезда"
+  },
+  "stay": {
+   "en": "How long were you away?",
+   "ir": "Kancha ubakıt sırtta boldunuz?",
+   "ru": "Сколько вы были за границей?"
+  },
+  "rulesOf": {
+   "en": "The allowances in force {p} apply.",
+   "ir": "{p} küchündögü chekter koldonulat.",
+   "ru": "Применяются нормы, действующие {p}."
+  },
+  "adults": {
+   "en": "Adults (16 and over)",
+   "ir": "Chong kishiler (16 jash jana andan jogoru)",
+   "ru": "Взрослые (16 лет и старше)"
+  },
+  "children": {
+   "en": "Children under 16",
+   "ir": "16 jashka cheyinki balalar",
+   "ru": "Дети до 16 лет"
+  },
+  "same": {
+   "en": "We are one family, all in the same vehicle",
+   "ir": "Biz bir üy-bülöbüz, bardıgıbız bir unaada",
+   "ru": "Мы одна семья, все в одном транспортном средстве"
+  },
+  "noVehicle": {
+   "en": "Pooling does not apply on this route: an aircraft or a train is not a vehicle for this purpose.",
+   "ir": "Bul joldo biriktirüü koldonulbayt: uchak je poezd bul maksatta unaa emes.",
+   "ru": "На этом маршруте объединение норм не применяется: самолёт или поезд для этой цели транспортным средством не является."
+  },
+  "bag": {
+   "en": "What is in the bag",
+   "ir": "Bashtıkta emne bar",
+   "ru": "Что в багаже"
+  },
+  "remove": {
+   "en": "Remove",
+   "ir": "Alıp sal",
+   "ru": "Удалить"
+  },
+  "qty": {
+   "en": "Quantity",
+   "ir": "Sanı",
+   "ru": "Количество"
+  },
+  "addItem": {
+   "en": "Add an item",
+   "ir": "Buyum koshuu",
+   "ru": "Добавить предмет"
+  },
+  "add": {
+   "en": "Add",
+   "ir": "Koshuu",
+   "ru": "Добавить"
+  },
+  "empty": {
+   "en": "Add at least one item with a quantity.",
+   "ir": "Sanı menen keminde bir buyum koshuñuz.",
+   "ru": "Добавьте хотя бы один предмет с количеством."
+  },
+  "verdict": {
+   "en": "Overall",
+   "ir": "Jalpı",
+   "ru": "Итог"
+  },
+  "pay": {
+   "en": "to pay: {s} som",
+   "ir": "tölöö: {s} som",
+   "ru": "к уплате: {s} сом"
+  },
+  "thItem": {
+   "en": "Item",
+   "ir": "Buyum",
+   "ru": "Предмет"
+  },
+  "thVerdict": {
+   "en": "Verdict",
+   "ir": "Chechim",
+   "ru": "Решение"
+  },
+  "thDuty": {
+   "en": "Duty, som",
+   "ir": "Bajı, som",
+   "ru": "Пошлина, сом"
+  },
+  "thWin": {
+   "en": "Window",
+   "ir": "Tereze",
+   "ru": "Окно"
+  },
+  "form": {
+   "en": "Form",
+   "ir": "Forma",
+   "ru": "Бланк"
+  },
+  "orderRef": {
+   "en": "Customs Service Order No. {n} of {y}{p}",
+   "ir": "Bajı kızmatının {y}-jılgı № {n} buyrugu{p}",
+   "ru": "Приказ Таможенной службы № {n} от {y} г.{p}"
+  },
+  "later": {
+   "en": "Changes {p}:",
+   "ir": "{p} özgörüü:",
+   "ru": "Изменения {p}:"
+  },
+  "som": {
+   "en": "{s} som",
+   "ir": "{s} som",
+   "ru": "{s} сом"
+  },
+  "dutyTot": {
+   "en": "Duty",
+   "ir": "Bajı",
+   "ru": "Пошлина"
+  },
+  "payTot": {
+   "en": "To pay at Window 3, in cash som",
+   "ir": "3-terezede nak som menen tölöö",
+   "ru": "К уплате в окне 3 наличными сомами"
+  },
+  "rateLive": {
+   "en": "Official rate today: 1 USD = {s} som.",
+   "ir": "Bügünkü rasmiy kurs: 1 AKSh dolları = {s} som.",
+   "ru": "Официальный курс сегодня: 1 доллар США = {s} сом."
+  },
+  "rateOff": {
+   "en": "Rate used: 1 USD = {s} som (today's official rate could not be loaded).",
+   "ir": "Koldonulgan kurs: 1 AKSh dolları = {s} som (bügünkü rasmiy kurs jüktölgön jok).",
+   "ru": "Использован курс: 1 доллар США = {s} сом (официальный курс на сегодня загрузить не удалось)."
+  },
+  "forms": {
+   "en": "Forms and papers",
+   "ir": "Formalar jana kagazdar",
+   "ru": "Бланки и документы"
+  },
+  "windows": {
+   "en": "Windows, in this order",
+   "ir": "Terezeler, ushul tartipte",
+   "ru": "Окна, в этом порядке"
+  },
+  "time": {
+   "en": "Expected time at the post, not counting the queue: {t}.",
+   "ir": "Posttogu boljoldu ubakıt, kezekti eseptebegende: {t}.",
+   "ru": "Ожидаемое время на посту, без учёта очереди: {t}."
+  },
+  "green": {
+   "en": "Nothing to declare: take the green channel.",
+   "ir": "Deklaratsiyalay turgan ech nerse jok: jashıl koridor menen ötüñüz.",
+   "ru": "Декларировать нечего: проходите по зелёному коридору."
+  },
+  "pooledYes": {
+   "en": "Your family's allowances are pooled for the goods where pooling applies.",
+   "ir": "Biriktirüü koldonulgan buyumdar üchün üy-bülöñüzdün chekteri biriktirildi.",
+   "ru": "Нормы вашей семьи объединены для товаров, где это допускается."
+  },
+  "pooledNo": {
+   "en": "Allowances are not pooled: each limit is counted for the person carrying the goods, and the checker assumes one person carries them all.",
+   "ir": "Chekter biriktirilbeyt: ar bir chek buyumdu kötörgön kishige eseptelet, al emi teksherüüchü bardıgın bir kishi kötördü dep esepteyt.",
+   "ru": "Нормы не объединяются: каждый лимит считается на того, кто везёт товары, и проверка исходит из того, что всё везёт один человек."
+  },
+  "hm": {
+   "en": "{h} h {m} min",
+   "ir": "{h} saat {m} münöt",
+   "ru": "{h} ч {m} мин"
+  },
+  "h": {
+   "en": "{h} h",
+   "ir": "{h} saat",
+   "ru": "{h} ч"
+  },
+  "m": {
+   "en": "{m} min",
+   "ir": "{m} münöt",
+   "ru": "{m} мин"
+  },
+  "months": {
+   "en": "January,February,March,April,May,June,July,August,September,October,November,December",
+   "ir": "yanvar,fevral,mart,aprel,may,iyun,iyul,avgust,sentyabr,oktyabr,noyabr,dekabr",
+   "ru": "января,февраля,марта,апреля,мая,июня,июля,августа,сентября,октября,ноября,декабря"
+  },
+  "qAlone": {
+   "en": "You are travelling alone.",
+   "ir": "Siz jalgız saparda jürösüz.",
+   "ru": "Вы путешествуете один."
+  },
+  "qFamilyCar": {
+   "en": "You are with your spouse and two children, all in one car.",
+   "ir": "Siz jubayıñız jana eki balañız menen, bardıgıñız bir unaada.",
+   "ru": "Вы с супругом и двумя детьми, все в одной машине."
+  },
+  "qFamily": {
+   "en": "You are with your spouse and two children.",
+   "ir": "Siz jubayıñız jana eki balañız menen.",
+   "ru": "Вы с супругом и двумя детьми."
+  },
+  "qShort": {
+   "en": "after two days away",
+   "ir": "eki kün sırtta bolgondon kiyin",
+   "ru": "после двух дней за границей"
+  },
+  "qLong": {
+   "en": "after two weeks away",
+   "ir": "eki juma sırtta bolgondon kiyin",
+   "ru": "после двух недель за границей"
+  },
+  "qBag": {
+   "en": "In the bag: {n}, {q}.",
+   "ir": "Bashtıkta: {n}, {q}.",
+   "ru": "В багаже: {n}, {q}."
+  },
+  "qOf": {
+   "en": "Question {i} of {n} · score {s}",
+   "ir": "{n} suroonun {i}-si · upay {s}",
+   "ru": "Вопрос {i} из {n} · счёт {s}"
+  },
+  "qAsk": {
+   "en": "What happens at the post?",
+   "ir": "Postto emne bolot?",
+   "ru": "Что будет на посту?"
+  },
+  "qRight": {
+   "en": "Right.",
+   "ir": "Tuura.",
+   "ru": "Верно."
+  },
+  "qWrong": {
+   "en": "Wrong. The answer is:",
+   "ir": "Tuura emes. Joop:",
+   "ru": "Неверно. Ответ:"
+  },
+  "qNobody": {
+   "en": "Nobody could have got this one right. The answer is:",
+   "ir": "Buga ech kim tuura joop bere almak emes. Joop:",
+   "ru": "На этот вопрос никто не смог бы ответить верно. Ответ:"
+  },
+  "qNext": {
+   "en": "Next question",
+   "ir": "Kiyinki suroo",
+   "ru": "Следующий вопрос"
+  },
+  "qDone": {
+   "en": "See your certificate",
+   "ir": "Kübölügüñüzdü körüñüz",
+   "ru": "Посмотреть свидетельство"
+  },
+  "cHead": {
+   "en": "Customs Service of the Irad Special Economic Zone",
+   "ir": "Irad Atayın Ekonomikalık Zonasının Bajı kızmatı",
+   "ru": "Таможенная служба Особой экономической зоны Ирад"
+  },
+  "cTitle": {
+   "en": "Certificate of knowledge of the rules for travellers",
+   "ir": "Joloochular üchün erejelerdi bilgendigi jönündö kübölük",
+   "ru": "Свидетельство о знании правил для пассажиров"
+  },
+  "cScore": {
+   "en": "The bearer answered {s} of {n} questions correctly.",
+   "ir": "Kübölük eesi {n} suroonun {s}ine tuura joop berdi.",
+   "ru": "Предъявитель верно ответил на {s} из {n} вопросов."
+  },
+  "g4": {
+   "en": "Grade: Honorary declarant.",
+   "ir": "Daraja: Ardaktuu deklarant.",
+   "ru": "Степень: почётный декларант."
+  },
+  "g3": {
+   "en": "Grade: Experienced traveller.",
+   "ir": "Daraja: Tajrıybalu joloochu.",
+   "ru": "Степень: опытный путешественник."
+  },
+  "g2": {
+   "en": "Grade: Ordinary traveller.",
+   "ir": "Daraja: Kadimki joloochu.",
+   "ru": "Степень: обычный путешественник."
+  },
+  "g1": {
+   "en": "Grade: Regular visitor to Window 6.",
+   "ir": "Daraja: 6-terezenin turaktuu konogu.",
+   "ru": "Степень: постоянный посетитель окна 6."
+  },
+  "cSpent": {
+   "en": "On these answers you would have spent {t} at {p}.",
+   "ir": "Ushul jooptor menen siz {t} ötkörmöksüz: {p}.",
+   "ru": "С такими ответами вы провели бы {t}: {p}."
+  },
+  "cGreen": {
+   "en": "You would have passed through the green channel in four minutes.",
+   "ir": "Siz jashıl koridordon tört münöttö ötmöksüz.",
+   "ru": "Вы прошли бы зелёный коридор за четыре минуты."
+  },
+  "cSign": {
+   "en": "Frontier Posts Directorate · {d}",
+   "ir": "Chek ara posttoru direktsiyası · {d}",
+   "ru": "Дирекция пограничных постов · {d}"
+  },
+  "cNote": {
+   "en": "This certificate has no legal force and is not a document for crossing the frontier (Order 31-o of 2017, para 2.4).",
+   "ir": "Bul kübölüktün yuridikalık küchü jok jana chek aradan ötüü üchün dokument emes (2017-jıldagı № 31-o buyruk, 2.4-punkt).",
+   "ru": "Это свидетельство не имеет юридической силы и не является документом для пересечения границы (приказ № 31-о от 2017 года, п. 2.4)."
+  },
+  "qAgain": {
+   "en": "Try ten more",
+   "ir": "Dagı on suroo",
+   "ru": "Ещё десять вопросов"
+  },
+  "print": {
+   "en": "Print the certificate",
+   "ir": "Kübölüktü basıp chıgaruu",
+   "ru": "Распечатать свидетельство"
+  }
+ }
+}
