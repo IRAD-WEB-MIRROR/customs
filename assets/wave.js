@@ -68,7 +68,7 @@ window.WAVE_CFG.pages_i18n = {"ir":{"w2s1":"Kum-Shagıl ötkölü kıshka jabıl
       a("/", x.esc(x.t("nav_home"))) + a("/sitemap.xml", x.esc(x.t("wv_map"))) + a("mailto:" + C.email, x.esc(x.t("wv_feedback"))) + "</div>" +
       '<div class="w1-mast"><a href="/"><img class="em" src="' + EMB + '" alt="' + x.esc(x.t("embAlt")) + '" width="94" height="94"></a>' +
       '<div class="t1">' + x.esc(name) + '</div><div class="t2">' + x.esc(x.t("mastK")) + '</div><div class="t3">' + x.esc(x.t("wv_official")) + " · " + x.esc(x.t("mastS")) + "</div>" +
-      '<form class="srch" action="https://www.google.com/search" method="get"><input type="hidden" name="sitesearch" value="' + location.hostname + '">' +
+      '<form class="srch" action="https://search.attelkom.net/" method="get"><input type="hidden" name="site" value="' + location.hostname + '">' +
       '<label>' + x.esc(x.t("wv_search")) + ' <input type="text" name="q" size="16"></label> <input type="submit" value="OK"></form></div>' +
       '<div class="w1-date"><span id="clock"></span>' + (run ? '<span class="run">' + run + "</span>" : "") + "</div></div>" +
       '<nav class="w1-lm" aria-label="' + x.esc(x.t("navLabel")) + '"><div class="mh">' + x.esc(x.t("wv_menu")) + '</div><ul class="menu">' +
@@ -127,7 +127,7 @@ window.WAVE_CFG.pages_i18n = {"ir":{"w2s1":"Kum-Shagıl ötkölü kıshka jabıl
       '<div class="w2c w2-brand">' + (C.w2 && C.w2.hotline ? '<div class="call">' + x.esc(x.t("wv_hotline_long")) + "<b>" + x.esc(C.w2.hotline) + "</b>" + x.esc(C.w2.phone || "") + "</div>" : "") +
       '<a href="/"><img src="' + EMB + '" alt="' + x.esc(x.t("embAlt")) + '" width="72" height="72"><span class="n1">' + x.esc(x.t("mastK")) + '</span><span class="n2">' + x.esc(x.t("mastN")) + "</span></a></div>" +
       '<nav class="w2-nav" aria-label="' + x.esc(x.t("navLabel")) + '"><div class="w2c"><button class="burger" type="button" aria-expanded="false" aria-label="' + x.esc(x.t("menu")) + '"><i></i><i></i><i></i></button>' +
-      '<form class="srch" action="https://www.google.com/search" method="get"><input type="hidden" name="sitesearch" value="' + location.hostname + '"><input type="search" name="q" placeholder="' + x.esc(x.t("wv_search2")) + '" aria-label="' + x.esc(x.t("wv_search2")) + '"></form>' +
+      '<form class="srch" action="https://search.attelkom.net/" method="get"><input type="hidden" name="site" value="' + location.hostname + '"><input type="search" name="q" placeholder="' + x.esc(x.t("wv_search2")) + '" aria-label="' + x.esc(x.t("wv_search2")) + '"></form>' +
       '<ul class="m">' + own.map(function (m) { return "<li" + (cur(x, m[0]) ? ' class="active"' : "") + ">" + a(m[1], x.esc(m[2]), cur(x, m[0]) ? ' aria-current="page"' : "") + "</li>"; }).join("") +
       (kit.length ? '<li class="dd' + (kitHere ? " active" : "") + '"><button type="button" class="dd-t" aria-expanded="false">' + x.esc(x.t("kit_nav")) + ' <span class="caret">&#9662;</span></button><ul class="sub">' +
         kit.map(function (p) { return "<li>" + a(p[1], x.esc(x.t("kit_nav_" + p[0])), p[0] === x.PAGE ? ' aria-current="page"' : "") + "</li>"; }).join("") + "</ul></li>" : "") +
