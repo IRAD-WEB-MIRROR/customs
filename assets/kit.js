@@ -197,9 +197,9 @@
    "kit_phone": "Tel.",
    "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Kızmat jönündö",
-   "kh1": "«Emneni ala kirsem bolot?»: joloochulardın chekterin emi saytta teksherse bolot",
-   "kh2": "Jañı inspektorlor kursun bütüp, posttorgo jönöshtü",
-   "kh3": "Tsisternalar: reestrdegi jazuunu körsötüü menen tarizdöönün algachkı jumaları"
+   "kh1": "Iradenergo Kyzyl-Adyr suu saktagychyndagy jüzgön kün stantsiyasyn izildeyt",
+   "kh2": "«Emneni ala kirsem bolot?»: joloochulardın chekterin emi saytta teksherse bolot",
+   "kh3": "Jañı inspektorlor kursun bütüp, posttorgo jönöshtü"
   },
   "ru": {
    "kit_home": "Главная",
@@ -248,9 +248,9 @@
    "kit_phone": "Тел.",
    "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "О Службе",
-   "kh1": "«Что можно ввезти?»: нормы для пассажиров теперь можно проверить на сайте",
-   "kh2": "Новые инспекторы завершили обучение и направлены на посты",
-   "kh3": "Цистерны: первые недели оформления по записи в реестре"
+   "kh1": "«Ирадэнерго» изучит возможность плавучей солнечной электростанции на Кызыл-Адырском водохранилище",
+   "kh2": "«Что можно ввезти?»: нормы для пассажиров теперь можно проверить на сайте",
+   "kh3": "Новые инспекторы завершили обучение и направлены на посты"
   }
  }
 });
